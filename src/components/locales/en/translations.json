@@ -1,0 +1,1435 @@
+{
+    "nav": {
+        "accueil": "Home",
+        "about": "About Us",
+        "programme": "Political Program",
+        "documents": "Documents",
+        "projet": "Political Project",
+        "vision": "Political Vision",
+        "galerie": "Gallery",
+        "actualites": "News",
+        "contact": "Contact",
+        "rejoindre": "Join Us"
+    },
+    "documents": {
+        "programme": "Political Program",
+        "statut": "Statutes",
+        "reglement": "Internal Regulations"
+    },
+    "search": "Search...",
+    "programmess": {
+        "categories": {
+            "eleves": "Students",
+            "etudiants": "University Students",
+            "commercants": "Traders",
+            "salaries": "Employees",
+            "travailleurs_metiers": "Skilled Workers",
+            "orphelins": "Orphans",
+            "jeunes_filles_meres": "Young Single Mothers",
+            "veuves": "Widows",
+            "Diapora_camerounaise": "Cameroonian Diaspora",
+            "personnes_agees": "Elderly People",
+            "prisonniers": "Prisoners",
+            "fmo": "FMO (Forces of Law and Order)",
+            "fonctionnaires": "Civil Servants",
+            "entrepreneurs": "Entrepreneurs",
+            "communautes_digitales": "Digital Communities"
+        }
+    },
+    "common": {
+        "back": "Back",
+        "backToPrograms": "Back to programs",
+        "notFound": "Page not found",
+        "categoryNotFound": "This program category does not exist.",
+        "learnMore": "Learn more",
+        "readyToSupport": "Ready to support us?",
+        "supportDescription": "Join us to build Cameroon's future together.",
+        "loading": "Loading...",
+        "error": "An error occurred"
+    },
+    "hero": {
+        "welcome": "Welcome to the platform of the",
+        "party": "United People’s Party",
+        "description": "A united political force to transform Cameroon and build the future our nation and its diaspora deserve.",
+        "join": "Join the UPP",
+        "discover": "Discover our actions",
+        "illustrationAlt": "UPP Illustration"
+    },
+    "index": {
+        "datas": [
+            {
+                "title": "Mental and Cultural Revolution",
+                "descrip": "We are sustainably transforming mindsets to build a modern, inclusive society focused on excellence. Through innovative educational programs and a redefinition of our values, we prepare Cameroonians for the challenges of the 21st century."
+            },
+            {
+                "title": "Structural Economic Transformation",
+                "descrip": "Our economic plan focuses on diversification, innovation, and the creation of millions of decent jobs. Local industrialization, modern agriculture, and the digital economy are the pillars of our sovereign development."
+            },
+            {
+                "title": "Diaspora Integration and International Influence",
+                "descrip": "The Cameroonian diaspora is a rich pool of skills and resources. We will create attractive initiatives to encourage the return of talent and investment, making Cameroon a regional leader in strategic sectors."
+            }
+        ],
+        "whoWeAre": "Who we are",
+        "heroIntro": "The",
+        "partyName": "United People’s Party",
+        "heroDescription": "A political and civic movement born from the need to unite all Cameroonian forces around a core principle: the radical transformation of the country.",
+        "federation": {
+            "title": "National Federation",
+            "descrip": "Bringing together all active forces of the nation beyond traditional divisions."
+        },
+        "transformProject": {
+            "title": "Transformative Project",
+            "descrip": "A clear vision for a modern and economically strong Cameroon."
+        },
+        "aboutImgAlt": "Coalition Meeting",
+        "visionImgAlt": "Vision for Cameroon",
+        "visionQuote": "Building together a prosperous and united Cameroon",
+        "commitments": "Our Commitments",
+        "emergenceIntro": "Towards",
+        "emergenceHighlight": "emergence"
+    },
+    "stats": {
+        "approach": "Our Approach",
+        "highlightedTitle": "Numbers that drive",
+        "highlight": "national transformation",
+        "description": "Our commitment is measured through clear indicators reflecting our holistic vision for Cameroon. Each number represents a structuring axis of our societal project, rooted in local realities and oriented towards the future.",
+        "pillars": {
+            "title": "Fundamental Pillars",
+            "description": "Democracy, Unity, Progress – the foundations of our national commitment for a strong and prosperous Cameroon."
+        },
+        "vision": {
+            "title": "Shared Vision",
+            "description": "A collective ambition to transform our nation and improve the living conditions of all Cameroonians."
+        },
+        "regions": {
+            "title": "Cameroon Regions",
+            "description": "Balanced representation of all regions, ensuring fairness and harmonious development across the territory."
+        },
+        "potential": {
+            "title": "National Potential",
+            "description": "Exploiting human and natural resources without limits to build the future of our great nation."
+        },
+        "footerNote": "These indicators are our compass for balanced and sustainable development in Cameroon.",
+        "methodology": {
+            "title": "Methodology",
+            "description": "A participative approach involving citizens, experts, and public/private sectors to create solutions adapted to local realities."
+        }
+    },
+    "pillars": {
+        "sectionLabel": "Our Foundations",
+        "titlePrefix": "The",
+        "titleHighlight": "3 Pillars",
+        "titleSuffix": "of the UPP",
+        "subtitle": "Three fundamental pillars that guide our vision of a transformed and prosperous Cameroon",
+        "pillarLabel": "Pillar",
+        "youth": {
+            "title": "Determined Youth",
+            "subtitle": "The Force of Change",
+            "description": "Youth determined to contribute to change, to transform, develop, and modernize Cameroon. This change comes through a mental revolution based on a work ethic, individual responsibility, and the will to break with old patterns that hinder progress."
+        },
+        "mindset": {
+            "title": "New Mindset",
+            "subtitle": "Reject Fatalism",
+            "description": "A new mindset: that of all people who believe that Cameroon has stagnated enough. Those who believe that without resorting to violence, the country can rise to a much more dignified rank among African economic powers."
+        },
+        "change": {
+            "title": "Change of Mindset",
+            "subtitle": "Revolution of Behavior",
+            "description": "A call for a change of mindset. It is about creating a critical mass of citizens outraged by the evils that plague our society: corruption, denigration, sabotage, retrograde practices, lack of civility, and cultural uncleanliness."
+        }
+    },
+    "about": {
+        "sectionTitle": "Our Political Foundations",
+        "description": "The United People’s Party relies on unchanging principles that guide our political action and vision for Cameroon.",
+        "federation": {
+            "title": "Federation of Forces",
+            "description": "The UPP provides a unifying and inclusive framework where all forces of proposal converge, whether from the opposition or the ruling coalition."
+        },
+        "vision": {
+            "title": "Transformative Vision",
+            "description": "Our political project is centered on a profound transformation of Cameroon's economic, social, and political structures."
+        },
+        "inclusive": {
+            "title": "Inclusive Approach",
+            "description": "Unlike traditional political formations, the UPP adopts a resolutely inclusive approach that integrates all components of society."
+        },
+        "strategy": {
+            "title": "Action Strategy",
+            "description": "Our method relies on three strategic pillars to ensure sustainable transformation."
+        }
+    },
+    "vision": {
+        "sectionTitle": "Our Vision",
+        "mainTitle": "A",
+        "highlight": "Strong Cameroon",
+        "descriptionIntro": "Our vision is of a Cameroon that refuses fatalism and relies on",
+        "descriptionHighlight": "competence, vision, and collective work",
+        "descriptionOutro": "to reach its full potential.",
+        "quote": "A Cameroon that rises peacefully to a respectable rank among the economic powers of Africa",
+        "quoteDescription": "The United People’s Party (UPP) brings together those who refuse fatalism and believe in the possible transformation of our country through a responsible and committed new generation.",
+        "economicPower": {
+            "title": "African Economic Power",
+            "description": "Position Cameroon among the major economic powers on the continent"
+        },
+        "diasporaIntegration": {
+            "title": "Diaspora Integration",
+            "description": "Actively mobilize the Cameroonian diaspora as a driver of transformation"
+        },
+        "civicEngagement": {
+            "title": "Engaged Civil Society",
+            "description": "Build a critical mass of responsible and committed citizens"
+        },
+        "innovation": {
+            "title": "Innovation and Modernity",
+            "description": "Develop a modern, connected, and innovative Cameroon"
+        },
+        "callToAction": {
+            "title": "Join the Change Revolution",
+            "description": "The UPP aims to bring together the forces of proposal, whether from opposition parties or the government, provided they share this vision of a",
+            "highlight": "Transformed Cameroon",
+            "joinButton": "Join the Movement",
+            "discoverButton": "Discover Our Actions"
+        }
+    },
+    "excellenceIntegrity": "Excellence et Intégrité",
+    "navigation": "Navigation",
+    "home": "Accueil",
+    "aboutUs": "Qui sommes-nous",
+    "program": "Programme",
+    "news": "Actualités",
+    "contact": "Contact",
+    "locationCity": "Douala, Cameroun",
+    "locationDetails": "Siège National, BP : 8361 Deido, Douala, Cameroun",
+    "emailOfficial": "Email officiel",
+    "hours": "Lun - Ven : 8h - 17h",
+    "uppParty": "Parti du Peuple Uni",
+    "poweredBy": "Conçu et propulsé par",
+    "privacyPolicy": "Politique de confidentialité",
+    "legalNotice": "Mentions légales",
+    "heros": {
+        "title": "Who are we?",
+        "intro1": "The United People’s Party:",
+        "intro2": "A civic force for Cameroon’s renewal",
+        "desc": "Innovative civic movement, the UPP brings together committed Cameroonians to build a prosperous, fair, and united nation through concrete solutions and participatory governance.",
+        "join_upp": "Join the UPP",
+        "discover_actions": "Discover our actions"
+    },
+    "histoire": {
+        "title": "Our History",
+        "subtitle": "From idea to action: the journey of a generation determined to transform Cameroon",
+        "parcours": "OUR PATH",
+        "steps": [
+            {
+                "title": "Genesis (2025)",
+                "desc": "Facing a political scene lacking innovation, a group of young Cameroonian professionals created the UPP with a vision: transforming Cameroon through civic engagement, technical expertise, and a participatory approach. Our goal? To propose credible alternatives to national challenges."
+            },
+            {
+                "title": "Expansion (2030)",
+                "desc": "The UPP becomes a national movement with the participation of the diaspora, sectoral experts, and community leaders. We develop our first concrete projects: civic training programs, thematic think tanks, and intergenerational dialogue platforms. Our advantage? Field approach combined with technical expertise."
+            },
+            {
+                "title": "Governance (2035)",
+                "desc": "The UPP establishes itself as an essential civic platform with:",
+                "list": [
+                    "Innovative political proposals",
+                    "A national network of skills",
+                    "Transformative local projects",
+                    "Transparent and participatory governance"
+                ]
+            }
+        ],
+        "quote": "The UPP embodies the hope of a renewed Cameroon, where every citizen becomes an actor of change. Our strength? Turning ideas into concrete actions for the common good."
+    },
+    "objectifs": {
+        "titleBadge": "OUR MISSION",
+        "title": "Unlock the Potential of Youth",
+        "subtitle": "Empowering young people to shape the future of Cameroon",
+        "imageAlt": "Empowered youth",
+        "sectionTitle": "Empowered Youth",
+        "sectionDesc": "Providing young Cameroonians with the tools to become agents of change.",
+        "items": [
+            {
+                "title": "Tailored Training",
+                "desc": "Programs designed to meet local market needs"
+            },
+            {
+                "title": "Professional Integration",
+                "desc": "Support towards employment and entrepreneurship"
+            },
+            {
+                "title": "Active Participation",
+                "desc": "Decision-making spaces dedicated to youth"
+            },
+            {
+                "title": "Encouraged Innovation",
+                "desc": "Incubators and funding dedicated to youth projects"
+            }
+        ],
+        "ctaTitle": "Ready to contribute to this transformation?",
+        "ctaButton": "Discover our program"
+    },
+    "gallery": {
+        "items": [
+            {
+                "src": "/images/galerie/joie.jpg",
+                "alt": "Constitutive assembly of UPP",
+                "caption": "",
+                "height": "16rem"
+            },
+            {
+                "src": "/images/galerie/coco.jpg",
+                "alt": "Citizen consultation",
+                "caption": "Citizen consultation",
+                "height": "12rem",
+                "mt": "mt-8"
+            },
+            {
+                "src": "/images/galerie/ate.jpg",
+                "alt": "Co-construction workshop",
+                "caption": "Co-construction workshop",
+                "height": "12rem"
+            },
+            {
+                "src": "/About/publique.png",
+                "alt": "National forum of UPP",
+                "caption": "National forum",
+                "height": "16rem"
+            }
+        ]
+    },
+    "leadership": {
+        "sectionLabel": "Leadership Team",
+        "title": "Leadership",
+        "subtitle": "Committed and visionary leaders driving Cameroon's transformation",
+        "viewProfile": "View full profile",
+        "leaders": [
+            {
+                "name": "Dr. NGAKETCHA",
+                "position": "Founder-President",
+                "description": "Visionary and experienced political leader with over 20 years of commitment to Cameroon's development.",
+                "image": "/images/galerie/oneking.jpg"
+            }
+        ]
+    },
+    "programme": {
+        "hero": {
+            "title1": "OUR POLITICAL PROGRAM",
+            "title2": "FOR NATIONAL RENEWAL",
+            "subtitle": "A project based on intelligence, justice, sovereignty and human progress.",
+            "button": "Discover the strategic axes"
+        },
+        "axesTitle": "STRATEGIC AXES",
+        "axesSubtitle": "Discover our full program to transform Cameroon",
+        "axes": [
+            {
+                "title": "AXIS 1: INSTITUTIONAL REFOUNDATION",
+                "subtitle": "Modern, transparent and digital state",
+                "items": [
+                    "Presidential term limited to 5 years renewable 3 times",
+                    "Reduction to 30 strategic ministries",
+                    "Democratic election of Constitutional Court judges",
+                    "Democratic election of Supreme Court magistrates",
+                    "Automation of the electoral system and voting",
+                    "Legalization of administrative documents within 60 minutes",
+                    "Creation of a National Order for each profession",
+                    "Establishment of National Digital ID Card",
+                    "New license plate linked to digital ID",
+                    "Reform of national addressing and postal system"
+                ]
+            },
+            {
+                "title": "AXIS 2: NATIONAL SOVEREIGNTY",
+                "subtitle": "Social justice and economic independence",
+                "items": [
+                    "Renationalization of strategic companies",
+                    "End of trade agreements and economic renegotiation",
+                    "Introduction of National Sovereignty Tax",
+                    "Withdrawal of mining licenses granted to Chinese companies",
+                    "Withdrawal of railway concessions from Bolloré",
+                    "Dissolution of Camair-Co and withdrawal of state airline management",
+                    "Tax on privately owned urban buildings",
+                    "Mandatory waste pre-collection and household sorting",
+                    "Mandatory investigation into extravagant wealth under 35",
+                    "Creation of National Anti-Corruption Force"
+                ]
+            },
+            {
+                "title": "AXIS 3: ECONOMIC MODERNIZATION",
+                "subtitle": "Industrialization, mobility and innovation",
+                "items": [
+                    "Creation of Regional Free Industrial Zones",
+                    "National label 'Made in Cameroon'",
+                    "Ban on importing vehicles over 5 years old",
+                    "Installation of major automobile brands",
+                    "New sustainable cities project",
+                    "10 Metropolitan Cities of Cameroon",
+                    "Tramway in Douala and Yaoundé",
+                    "New high-speed train lines",
+                    "Reconstruction of airports and construction of new ones",
+                    "Inalienable Land Title and land reform"
+                ]
+            },
+            {
+                "title": "AXIS 4: DIGITAL REVOLUTION",
+                "subtitle": "AI, knowledge, diaspora and traditions",
+                "items": [
+                    "National Institute of Artificial Intelligence",
+                    "National Cybercrime Office",
+                    "University reform",
+                    "Election of Rectors by academic staff",
+                    "Scientific Diaspora National Order",
+                    "Business Diaspora Chamber",
+                    "National Press Label",
+                    "Cameroonian Talents Institute",
+                    "National Institute of Heritage and Traditions",
+                    "Social media ban for under 18"
+                ]
+            },
+            {
+                "title": "AXIS 5: NATIONAL COHESION",
+                "subtitle": "Security, mobility and citizenship",
+                "items": [
+                    "National Proximity Security Force",
+                    "Strengthening judicial role of the gendarmerie",
+                    "Digital corruption reporting system",
+                    "Visa-free access for African countries",
+                    "Regional entrepreneurial mobility agreement",
+                    "Strict application of diplomatic reciprocity",
+                    "10-year valid passport",
+                    "Decriminalization of dual nationality",
+                    "Mandatory national flag on homes and businesses",
+                    "Trash Bag Cameroon clean city program"
+                ]
+            }
+        ],
+        "impactTitle": "THE IMPACT OF OUR PROGRAM",
+        "impactSubtitle": "Figures that show the scale and precision of our action",
+        "stats": [
+            {
+                "value": "10M+",
+                "label": "Citizens impacted",
+                "description": "Our program will directly impact over 10 million Cameroonians."
+            },
+            {
+                "value": "5",
+                "label": "Strategic axes",
+                "description": "5 fundamental pillars structuring national action."
+            },
+            {
+                "value": "25",
+                "label": "Key projects",
+                "description": "25 priority projects for rapid transformation."
+            },
+            {
+                "value": "100+",
+                "label": "Concrete measures",
+                "description": "More than 100 measurable actions with performance indicators."
+            }
+        ],
+        "ctaTitle": "READY TO JOIN THIS ADVENTURE?",
+        "ctaSubtitle": "Together, let's build a fairer, stronger and prouder Cameroon.",
+        "ctaJoin": "Join the movement",
+        "ctaContact": "Contact us"
+    },
+    "heroVision": {
+        "title": "UNITED PEOPLE'S PARTY",
+        "subtitle": "FOR A NEW CAMEROON",
+        "quote": "“There are moments in history when generations have no choice but to rise. Not for the love of power, but out of duty.”",
+        "join": "Join the UPP",
+        "download": "Download the charter",
+        "imageAlt": "Political vision"
+    },
+    "visionVision": {
+        "patternAlt": "Cameroon pattern",
+        "imageAlt": "Political strategy",
+        "plan": "STRATEGIC PLAN 2025-2030",
+        "badge": "OUR SOCIAL PROJECT",
+        "title1": "OUR",
+        "title2": "POLITICAL VISION",
+        "description": "The UNITED PEOPLE'S PARTY aims to become the main political reference framework for Cameroonian youth, a structured, inclusive, and unifying space.",
+        "blocks": [
+            {
+                "title": "GOVERNANCE AND PARTICIPATION",
+                "description": "We aim to:\n- Create a convergence space for young leaders\n- Build a collective force able to influence public debate\n- Establish a new political vision based on collaboration and ethics"
+            },
+            {
+                "title": "ELECTORAL STRATEGY",
+                "description": "Our goals:\n- Prepare for the 2026 elections\n- Pool the strength of committed young people\n- Democratically conquer spaces of power\n- Build a credible political alternative"
+            },
+            {
+                "title": "TRAINING AND LEADERSHIP",
+                "description": "We will develop:\n- A political training school\n- A strategic think tank\n- A young elected officials incubator\n- Networks of local elected officials to promote synergies"
+            }
+        ]
+    },
+    "values": {
+        "backgroundAlt": "Patriotic background",
+        "badge": "OUR VALUES",
+        "title1": "THE PILLARS OF OUR",
+        "title2": "COMMITMENT",
+        "subtitle": "In a Cameroon where more than 70% of the population is under 35, we carry the values of a new political generation",
+        "imageAlt": "Political action",
+        "imageCaption": "OUR COMMITMENT TO POLITICAL RENEWAL",
+        "blocks": [
+            {
+                "title": "Integrity",
+                "description": "We uphold the ethics of truth, justice, and loyalty. Rejecting compromise and duplicity, we commit to embodying honest, consistent, and exemplary politics."
+            },
+            {
+                "title": "Discipline",
+                "description": "We believe in the power of organization, respect for common rules, and self-discipline. Being disciplined means rigor in our actions and responsibility in our behavior."
+            },
+            {
+                "title": "Excellence",
+                "description": "We reject mediocrity. We strive for excellence in thought, action, and in how we represent youth."
+            },
+            {
+                "title": "Patriotism",
+                "description": "Our loyalty goes first to the Cameroonian people. We serve Cameroon, not foreign, family, or partisan interests. The good of the nation guides our struggles and alliances."
+            },
+            {
+                "title": "Generational solidarity",
+                "description": "We move forward together. Our strength lies in unity, mutual trust, and the ability to uplift others. We believe every young person deserves a place, a voice, and an opportunity."
+            }
+        ]
+    },
+    "newPolitics": {
+        "title1": "A",
+        "title2": "NEW WAY",
+        "title3": "TO DO POLITICS",
+        "subtitle": "The UNITED PEOPLE'S PARTY breaks with traditional practices",
+        "columns": [
+            {
+                "title": "TRADITIONAL POLITICS",
+                "items": [
+                    "Reproduction of aging elites",
+                    "Rent-seeking and clientelism",
+                    "Youth instrumentalized then forgotten",
+                    "Centralization of power"
+                ],
+                "stats": "32% youth trust"
+            },
+            {
+                "title": "OUR APPROACH",
+                "items": [
+                    "Collective and generational leadership",
+                    "Ethical and transparent governance",
+                    "Mutualized electoral strategy",
+                    "Coordinated actions on the ground"
+                ],
+                "stats": "78% youth support"
+            },
+            {
+                "title": "EXPECTED RESULTS",
+                "items": [
+                    "Renewal of the political class",
+                    "Increased youth participation",
+                    "Adapted public policies",
+                    "More inclusive democracy",
+                    "+18% inclusive growth",
+                    "1.2M jobs created",
+                    "70% corruption reduction",
+                    "92% access to basic services"
+                ],
+                "stats": "Successful generational transition"
+            }
+        ]
+    },
+    "cta": {
+        "title1": "READY TO",
+        "highlight": "UPP",
+        "title2": "CAMEROON?",
+        "subtitle": "Join the movement for a new generational governance",
+        "buttons": {
+            "join": "Join UPP",
+            "download": "Download the charter",
+            "donate": "Make a Donation"
+        }
+    },
+    "contacts": {
+        "hero": {
+            "title": "Contact Us",
+            "subtitle": "We are here to listen and build the Cameroon of tomorrow together"
+        },
+        "info": {
+            "title": "Contact Information",
+            "addressTitle": "Address",
+            "addressDetails": "National Headquarters: BP 8361 Deido, Douala, Cameroon",
+            "phoneTitle": "Phone",
+            "phoneDetails1": "+237 673 712 522 / +237 694 25 83 89",
+            "phoneDetails2": "Mon - Fri: 8am - 6pm",
+            "emailTitle": "Email",
+            "emailDetails": "info@upp.cm"
+        },
+        "form": {
+            "title": "Send us a message",
+            "subtitle": "Your questions, suggestions, and proposals matter",
+            "nom": "Full Name",
+            "nomPlaceholder": "Your full name",
+            "email": "Email",
+            "emailPlaceholder": "your@email.com",
+            "telephone": "Phone",
+            "telephonePlaceholder": "+237 6XX XX XX XX",
+            "sujet": "Subject",
+            "sujetPlaceholder": "Select your subject",
+            "sujet1": "Join UPP",
+            "sujet2": "Program Question",
+            "sujet3": "Collaboration Proposal",
+            "sujet4": "Press Request",
+            "sujet5": "Other",
+            "message": "Message",
+            "messagePlaceholder": "Write your message here...",
+            "consent": "I agree to be contacted by UPP regarding my request",
+            "submit": "Send Message",
+            "sending": "Sending...",
+            "errorTitle": "Error",
+            "errorConsent": "You must agree to be contacted to continue.",
+            "successTitle": "Success",
+            "errorUnexpected": "An unexpected error occurred while sending the form."
+        },
+        "social": {
+            "title": "Follow us on social media",
+            "subtitle": "Stay connected with UPP news"
+        }
+    },
+    "footer": {
+        "excellenceIntegrity": "Excellence and Integrity",
+        "navigation": "Navigation",
+        "home": "Home",
+        "aboutUs": "About Us",
+        "program": "Program",
+        "news": "News",
+        "contact": "Contact",
+        "locationCity": "Douala, Cameroon",
+        "locationDetails": "National Headquarters, PO Box: 8361 Deido, Douala, Cameroon",
+        "emailOfficial": "Official Email",
+        "hours": "Mon - Fri: 8am - 5pm",
+        "uppParty": "United People's Party",
+        "poweredBy": "Powered and Designed by",
+        "privacyPolicy": "Privacy Policy",
+        "legalNotice": "Legal Notice"
+    },
+    "legal": {
+        "title": "Legal Notice",
+        "siteName": "Website name",
+        "siteValue": "UPP",
+        "url": "URL",
+        "editor": "Publisher",
+        "address": "Address",
+        "email": "Email",
+        "phone": "Phone",
+        "publisher": "Publication manager",
+        "builderTitle": "Developer",
+        "name": "Name",
+        "contact": "Contact",
+        "lastUpdate": "Last updated"
+    },
+    "privacy": {
+        "title": "Privacy Policy",
+        "section1Title": "1. Collection of Personal Data",
+        "section1Text": "UPP collects only the data strictly necessary for the proper functioning of the website and communication with its members or visitors. This data may include:",
+        "section1List": [
+            "First and last name",
+            "Email address",
+            "Phone number (optional)",
+            "Profession or political affiliation (optional)",
+            "Browsing data (via cookies)"
+        ],
+        "section2Title": "2. Use of Data",
+        "section2List": [
+            "Respond to information or contact requests",
+            "Manage registrations for activities, events, and newsletters",
+            "Improve user experience on the site",
+            "Communicate about the party’s actions and proposals"
+        ],
+        "section2Text": "No personal data is sold or shared with third parties for commercial purposes.",
+        "section3Title": "3. Cookies",
+        "section3Text": "The site uses cookies to measure audience traffic and facilitate navigation. You can configure your browser to refuse cookies or be informed of their use.",
+        "section4Title": "4. Right of Access, Modification and Deletion",
+        "section4Text": "In accordance with current legislation, each user has the right to access, correct and delete their data. To exercise these rights, please contact us at:",
+        "section5Title": "5. Data Security",
+        "section5Text": "UPP implements technical and organizational measures to protect personal data against unauthorized access, loss, or destruction.",
+        "section6Title": "6. Changes to the Privacy Policy",
+        "section6Text": "This policy may be modified at any time to comply with changes in legislation or site operations. Any major modification will be clearly announced on the site.",
+        "lastUpdate": "Last updated"
+    },
+    "join": {
+        "title": "Join UPP",
+        "formTitle": "Membership Form",
+        "formDescription": "Fill out this form to join UPP",
+        "personalInfo": "Personal Information",
+        "firstname": "First Name",
+        "lastname": "Last Name",
+        "age": "Age",
+        "email": "Email",
+        "phone": "Phone",
+        "profession": "Profession",
+        "region": "Region",
+        "city": "City",
+        "engagement": "Your Commitment",
+        "motivationLabel": "Why do you want to join UPP?",
+        "motivationPlaceholder": "Describe your motivations and your vision for Cameroon...",
+        "skillsLabel": "Your skills and areas of expertise",
+        "skillsPlaceholder": "Describe your skills that could contribute to the party...",
+        "experienceLabel": "Political or community experience",
+        "experiencePlaceholder": "Describe your political or community involvement...",
+        "availability": "Availability for involvement",
+        "availabilityPlaceholder": "Your level of availability",
+        "availabilityOptions": {
+            "full": "Full time",
+            "part": "Part time",
+            "weekend": "Mainly weekends",
+            "occasional": "Occasional participation",
+            "remote": "Remote support"
+        },
+        "charter": "I accept the UPP charter and commit to respecting its values",
+        "newsletter": "I agree to receive communications from UPP",
+        "submit": "Submit my application",
+        "sending": "Submitting...",
+        "sidebarTitle": "Why join us?",
+        "reason1Title": "Be part of change",
+        "reason1Desc": "Actively contribute to Cameroon’s transformation",
+        "reason2Title": "Develop your skills",
+        "reason2Desc": "Join a dynamic team and learn",
+        "reason3Title": "Build social connections",
+        "reason3Desc": "Meet committed citizens like you",
+        "contactTitle": "Contact Us"
+    },
+    "rejoindre": {
+        "title": "Join UPP",
+        "close": "Close",
+        "formTitle": "Membership Form",
+        "formDescription": "Fill out this form to join the United People's Party",
+        "personalInfo": "Personal Information",
+        "firstName": "First Name *",
+        "lastName": "Last Name *",
+        "age": "Age",
+        "email": "Email *",
+        "phone": "Phone *",
+        "profession": "Profession",
+        "region": "Region *",
+        "city": "City *",
+        "selectRegion": "Select your region",
+        "engagement": "Your Commitment",
+        "motivation": "Why do you want to join UPP? *",
+        "motivationPlaceholder": "Describe your motivations and vision for Cameroon...",
+        "skills": "Your skills and areas of expertise",
+        "skillsPlaceholder": "Describe your skills that could contribute to UPP...",
+        "politicalExperience": "Political or associative experience",
+        "politicalExperiencePlaceholder": "Describe your experience in political or associative engagement...",
+        "availability": "Availability for commitment",
+        "selectAvailability": "Your level of availability",
+        "availabilityOptions": {
+            "fullTime": "Full time",
+            "partTime": "Part time",
+            "weekends": "Mainly weekends",
+            "occasional": "Occasional participation",
+            "remote": "Remote support"
+        },
+        "acceptCharte": "I accept the UPP charter and commit to respecting the values of the United People's Party",
+        "acceptNewsletter": "I agree to receive UPP communications (newsletter, events, news)",
+        "submit": "Submit my application",
+        "submitting": "Sending...",
+        "whyJoin": "Why join us?",
+        "whyJoinItems": {
+            "change": {
+                "title": "Participate in change",
+                "description": "Actively contribute to Cameroon's transformation"
+            },
+            "skills": {
+                "title": "Develop your skills",
+                "description": "Join a dynamic team and learn"
+            },
+            "social": {
+                "title": "Create social connections",
+                "description": "Meet engaged citizens like you"
+            }
+        },
+        "contact": "Contact us",
+        "emailContact": "info@upp-ppu.org",
+        "phoneContact": "+237 673 712 522 / +237 694 25 83 89",
+        "address": "Douala, Cameroon",
+        "validationErrors": {
+            "requiredFields": "All required fields must be filled in",
+            "invalidEmail": "Invalid email address",
+            "invalidPhone": "Invalid phone number",
+            "acceptCharte": "You must accept the UPP charter to continue"
+        },
+        "success": {
+            "title": "Request sent successfully!",
+            "description": "We will contact you shortly to finalize your membership with UPP."
+        },
+        "error": {
+            "title": "Error",
+            "unexpected": "Unexpected error",
+            "description": "An error occurred while submitting the form. Please try again."
+        }
+    },
+    "galleries": {
+        "title": "Gallery | United People's Party (UPP)",
+        "description": "Exclusive media gallery of United People's Party (UPP) activities",
+        "hero": {
+            "tag": "PATRIOTIC MOVEMENT",
+            "titleLine1": "NATIONAL",
+            "titleLine2": "AWAKENING",
+            "quote": "\"Our commitment is unwavering: to build a strong, united and prosperous nation where every citizen finds their place and contributes to building a bright future.\""
+        },
+        "content": {
+            "images": "Images",
+            "title": "Our Action in Images",
+            "description": "Discover the highlights of our political commitment and the achievements of the United People's Party (UPP) across Cameroon."
+        },
+        "modal": {
+            "close": "Close",
+            "previous": "Previous",
+            "next": "Next",
+            "play": "Play",
+            "pause": "Pause",
+            "mute": "Mute",
+            "unmute": "Unmute",
+            "controls": {
+                "escape": "Escape to close",
+                "arrows": "Arrows to navigate",
+                "space": "Space for play/pause"
+            }
+        },
+        "mediaTypes": {
+            "image": "Image",
+            "video": "Video"
+        },
+        "buttons": {
+            "download": "Download",
+            "view": "View",
+            "like": "Like",
+            "share": "Share"
+        }
+    },
+    "programmes": {
+        "sections": {
+            "problemes": "Identified Problems",
+            "methodes": "Intervention Methodology",
+            "solutions": "Proposed Solutions"
+        },
+        "descriptions": {
+            "problemes": "The specific challenges faced by {{category}}",
+            "methodes": "Our structured approach to bring sustainable solutions",
+            "solutions": "Our concrete proposals to improve the situation of {{category}}"
+        },
+        "categories": {
+            "eleves": "Students",
+            "etudiants": "University Students",
+            "commercants": "Traders",
+            "salaries": "Employees",
+            "travailleurs_metiers": "Skilled Workers",
+            "orphelins": "Orphans",
+            "jeunes_filles_meres": "Young Single Mothers",
+            "veuves": "Widows",
+            "diaspora": "Cameroonian Diaspora",
+            "personnes_agees": "Elderly People",
+            "prisonniers": "Prisoners",
+            "fmo": "FMO (Forces of Law and Order)",
+            "fonctionnaires": "Civil Servants",
+            "entrepreneurs": "Entrepreneurs",
+            "communautes_digitales": "Digital Communities"
+        },
+        "eleves": {
+            "problemes": [
+                "Lack of adequate school infrastructure in many regions",
+                "High cost of school supplies and tuition fees",
+                "Absence of school canteens and feeding programs",
+                "Insufficient quality of teaching in some schools",
+                "Lack of school transport, particularly in rural areas",
+                "Early school dropout due to socio-economic difficulties",
+                "Inequalities in access to education between urban and rural regions"
+            ],
+            "methodes": [
+                "Participatory diagnosis with school communities and parents",
+                "Collaboration with local authorities and educational partners",
+                "Establishment of community monitoring committees",
+                "Continuous needs assessment and program adjustment",
+                "Training and awareness-raising for education stakeholders",
+                "Creation of public-private partnerships for education"
+            ],
+            "solutions": [
+                "Construction and rehabilitation of schools in disadvantaged areas",
+                "Implementation of a free school supplies program",
+                "Creation of school canteens with local products",
+                "Continuous teacher training and improvement of their conditions",
+                "Development of an accessible school transport system",
+                "Scholarships for deserving students from modest families",
+                "School support program and psychosocial support",
+                "Progressive digitization of teaching with computer equipment"
+            ]
+        },
+        "etudiants": {
+            "problemes": [
+                "High tuition fees and little financial support",
+                "Lack of access to decent university housing",
+                "Mismatch between academic training and labor market needs",
+                "Limited access to internships, entrepreneurship, and professional opportunities",
+                "Insufficient teaching equipment and digital infrastructure",
+                "Psychological stress and lack of mental health services",
+                "Difficulty accessing academic and administrative information"
+            ],
+            "methodes": [
+                "Consultations with student associations and universities",
+                "Establishment of observatories to monitor student paths",
+                "Partnership with private sector and local businesses",
+                "Territorial diagnosis of university infrastructure needs",
+                "Awareness-raising for public actors about student realities",
+                "Creation of dialogue forums between students and institutions"
+            ],
+            "solutions": [
+                "Establishment of scholarships and preferential-rate student loans",
+                "Construction and rehabilitation of accessible university residences",
+                "Curriculum revision to better respond to market needs",
+                "Creation of internship centers, incubators, and university fablabs",
+                "Equipment of universities with digital libraries and modern laboratories",
+                "Establishment of psychological listening cells and preventive health services",
+                "Digitization of university administrative services (registrations, scholarships, etc.)"
+            ]
+        },
+        "commercants": {
+            "problemes": [
+                "Multiplicity of uncoordinated taxes and fiscal charges",
+                "Limited access to financing for small traders",
+                "Lack of training in management, accounting, and marketing",
+                "Insecurity in markets and commercial areas",
+                "Inadequate commercial infrastructure (stalls, warehouses, access roads)",
+                "Unfair competition with low-quality imported products",
+                "Instability of local commercial policies and lack of protection for small businesses"
+            ],
+            "methodes": [
+                "Regular consultations with trade unions and associations",
+                "Diagnosis of distribution circuits and local taxation",
+                "Partnerships with microfinance institutions and local banks",
+                "Establishment of support cells for formalization of small businesses",
+                "Continuous training for traders in management and digital skills",
+                "Dialogue between local authorities and traders for adapted reforms"
+            ],
+            "solutions": [
+                "Reform of local taxation to simplify and harmonize taxes",
+                "Creation of microcredit funds specific to small traders",
+                "Construction and rehabilitation of markets with security and hygiene",
+                "Implementation of business management training programs",
+                "Protection of local products against unfair external competition",
+                "Digitization of business management (mobile payments, local e-commerce)",
+                "Simplified formalization program for informal small traders"
+            ]
+        },
+        "salaries": {
+            "problemes": [
+                "Low wages compared to cost of living",
+                "Frequent delays in salary payments, especially in public or informal sector",
+                "Non-compliance with labor code and absence of formal contracts for many workers",
+                "Poor access to social protection (CNPS, health insurance, retirement)",
+                "Precarious working conditions and lack of workplace safety",
+                "Limited career development prospects and lack of continuous training",
+                "Weakened unionism and poor representation of employees in social dialogue"
+            ],
+            "methodes": [
+                "Strengthened social dialogue between State, employers, and unions",
+                "Audits on hiring and remuneration practices in companies",
+                "Partnership with social security institutions for awareness",
+                "Information campaigns on workers' rights",
+                "Encouraging companies to invest in vocational training",
+                "Strengthening union capacities for better representation"
+            ],
+            "solutions": [
+                "Revaluation of SMIG (guaranteed interprofessional minimum wage)",
+                "Establishment of control mechanisms to guarantee regular salary payments",
+                "Mandatory written contracts for all employment, including informal sector",
+                "Simplification of CNPS enrollment and creation of universal health coverage for employees",
+                "Regular inspection of workplaces for safety standard compliance",
+                "Creation of subsidized continuous training centers for employees",
+                "Strengthening of tripartite social dialogue (State - Employers - Unions)"
+            ]
+        },
+        "travailleurs_metiers": {
+            "problemes": [
+                "Lack of official recognition of skills acquired through experience",
+                "Limited access to continuous technical training and certification",
+                "Difficulty accessing financing to develop their activity",
+                "Poor social coverage and absence of formal work contracts",
+                "Unfair competition from unqualified or foreign providers",
+                "Absence of platforms for client connection",
+                "Precarious working conditions and exposure to professional risks"
+            ],
+            "methodes": [
+                "National census of specialized workers by sector",
+                "Collaboration with vocational training centers (CFP, IFORD, etc.)",
+                "Implementation of skills validation programs (VAE)",
+                "Dialogue between cooperatives, artisans, and local authorities",
+                "Awareness-raising on social protection and workplace safety",
+                "Encouragement of formalization through tax incentives"
+            ],
+            "solutions": [
+                "Creation of a national certification program for artisanal skills",
+                "Subsidy or free training for obtaining qualifying diplomas (CAP, CQP)",
+                "Establishment of micro-credits and grants for tool and material purchase",
+                "Simplified registration of workers in cooperatives or professional registers",
+                "Digital or physical platforms to facilitate visibility and client connection",
+                "Health and retirement insurance adapted to independent workers",
+                "Promotion campaigns for specialized trades among youth and general public"
+            ]
+        },
+        "orphelins": {
+            "problemes": [
+                "Lack of means of subsistence, material and health needs",
+                "Under-schooling or absence of schooling",
+                "Uncertain or non-existent future",
+                "Insufficient reception and support structures adapted for orphans",
+                "Social stigma and marginalization of orphans in some communities",
+                "Limited access to education, health, and civil status (birth certificates)",
+                "Lack of psychosocial follow-up and emotional support",
+                "Economic precariousness leading to exploitation or early work"
+            ],
+            "methodes": [
+                "Legislative proposal, Participatory approach / Co-construction",
+                "National mapping of orphans and existing reception structures",
+                "Community consultations and involvement of traditional and religious leaders",
+                "Networking of reception centers and harmonization of practices",
+                "Training of supervisory staff in psychosocial and protective approaches",
+                "Development of specific legal framework for orphan children",
+                "Collaboration with NGOs and social partners for community sponsorship",
+                "Longitudinal follow-up of orphan children until socio-professional insertion"
+            ],
+            "solutions": [
+                "Legislative proposal for special orphan status with special advantages for all public services (school, hospital, commercial center, administrative documents)",
+                "Strengthening capacities of orphanage educators",
+                "Implementation of a diaspo-social and CSR program benefiting orphanages",
+                "Systematic issuance of birth certificates and facilitated civil registration",
+                "Establishment of a national solidarity fund for orphan protection",
+                "Social sponsorship program (remunerated and supervised foster families)",
+                "Psychosocial support with social assistance, psychologists, and specialized educators",
+                "Progressive professional insertion with training, scholarships, and micro-credits",
+                "National awareness campaigns to combat stigma"
+            ]
+        },
+        "jeunes_filles_meres": {
+            "problemes": [
+                "Under-schooling or absence of schooling",
+                "Social precariousness / Absence of employment",
+                "Poor child care or abandonment",
+                "Social stigma and family rejection of young single mothers",
+                "School dropout or difficulty continuing studies after maternity",
+                "Lack of access to adapted sexual and reproductive health services",
+                "Economic precariousness and absence of financial autonomy",
+                "Absence of reception structures or daycare centers to allow resumption of studies or work",
+                "Increased risk of exploitation, gender-based violence, and recurrent early pregnancies",
+                "Poor consideration of the issue in public policies"
+            ],
+            "methodes": [
+                "Participatory approach / Co-construction",
+                "Community listening and participatory surveys with concerned young mothers",
+                "Mobilization of local actors (chiefs, educators, parents, women's associations)",
+                "Creation of discussion groups and psychological support for young mothers",
+                "Awareness campaigns in schools and communities on rights and dignity of young mothers",
+                "Partnerships with vocational training centers, health centers, and NGOs",
+                "Establishment of social referents in schools and health facilities",
+                "Integration of young mothers' needs in municipal development plans"
+            ],
+            "solutions": [
+                "Support for obtaining MINFOP training scholarships",
+                "Support for job search and placement with employers",
+                "Negotiation with Ministry of Social Affairs for recognition of exceptional social status for young mothers with effect on priority child care",
+                "Facilitated school reintegration with specific scholarships and individualized support",
+                "Creation of reception and reinsertion centers for young mothers",
+                "Establishment of free community daycare centers near training centers or schools",
+                "Free access to maternal, child, and psychological health care",
+                "Qualifying training and funding for self-employment projects or local cooperatives",
+                "Law protecting against educational and professional discrimination of young mothers",
+                "Massive destigmatization campaigns through media, schools, and public places",
+                "Creation of a special fund for empowerment of vulnerable young mothers"
+            ]
+        },
+        "veuves": {
+            "problemes": [
+                "Family disputes (alimony, forced remarriage)",
+                "Land disputes (expropriation)",
+                "Child school dropout/social precariousness",
+                "Discrimination and social marginalization after spouse's death",
+                "Property grabbing by in-laws, especially in rural areas",
+                "Absence of effective legal protection of inheritance rights",
+                "Poor access to economic resources and employment",
+                "Lack of psychological and social support after bereavement",
+                "Non-existence of targeted public assistance mechanisms for widows",
+                "Double parenting burden without specific support"
+            ],
+            "methodes": [
+                "Legislative proposal, Participatory approach / Co-construction",
+                "Census of widows and identification of their specific needs by locality",
+                "Community dialogue with traditional chiefs and religious leaders to break taboos",
+                "Strengthening capacities of social and legal services to respond to widowhood situations",
+                "Creation of listening, mutual aid, and advocacy platforms led by widows themselves",
+                "Work with customary and civil courts for securing widows' rights",
+                "Technical support to existing widows' associations for better coordination",
+                "Integration of widows' issues in national poverty reduction strategies"
+            ],
+            "solutions": [
+                "Constitution of a pro bono legal council",
+                "Strengthening understanding of land rights",
+                "Support for schooling through an expanded school sponsorship program",
+                "Adoption of a clear and protective law on widows' rights and inheritance",
+                "Creation of a special fund for economic and social support of widows",
+                "Establishment of listening and psychological monitoring centers in each department",
+                "Support for widows' entrepreneurship through dedicated funding and training",
+                "Priority access program for widows to social housing and health coverage",
+                "National campaigns against stigmatization and spoliation of widows",
+                "Free legal support to assert their inheritance and family rights",
+                "Insertion of widows in local cooperatives or community employment programs"
+            ]
+        },
+        "diaspora": {
+            "problemes": [
+                "Investment and entrepreneurship difficulties in home country",
+                "Poor recognition and valorization of diaspora skills",
+                "Limited access to administrative and legal information in Cameroon",
+                "Difficulties in political participation (voting, representation, dialogue)",
+                "Lack of support for voluntary return or reintegration"
+            ],
+            "methodes": [
+                "Creation of a Diaspora Consultative Council",
+                "Establishment of a digital one-stop shop for diaspora",
+                "Launch of a 'structured and secure return' program",
+                "Regular organization of diaspora-government dialogue forums",
+                "Creation of a special fund to support diaspora projects"
+            ],
+            "solutions": [
+                "Valorization of diaspora skills in local development projects",
+                "Temporary tax exemptions for diaspora entrepreneurs",
+                "Effective implementation of secure electronic voting for Cameroonians abroad",
+                "Creation of diaspora attaches in embassies and consulates responsible for relaying concerns and projects of Cameroonians abroad",
+                "Development of a special diaspora real estate program supported by the State, with regulated legal and financial guarantees"
+            ]
+        },
+        "personnes_agees": {
+            "problemes": [
+                "Absence of effective retirement system for majority of elderly people",
+                "Difficult access to health care adapted to their age",
+                "Social isolation and frequent family abandonment",
+                "Lack of reception infrastructure or day centers for elderly",
+                "Vulnerability to poverty and food insecurity",
+                "Non-recognition of their role and knowledge in society",
+                "Absence of specific public policies for the elderly"
+            ],
+            "methodes": [
+                "Identification and census of vulnerable elderly by locality",
+                "Consultation with families, neighborhood chiefs, and community leaders",
+                "Partnership with health centers, mutuals, NGOs, and churches",
+                "Development of a national policy for elderly well-being",
+                "Establishment of municipal committees to monitor elderly well-being",
+                "Community awareness-raising on family care for elders"
+            ],
+            "solutions": [
+                "Establishment of a special social support fund for elderly without pension",
+                "Free or subsidized health care for seniors in public hospitals",
+                "Creation of day reception and activity centers for elderly",
+                "Targeted food program for vulnerable elderly",
+                "Recognition and valorization of elders' role in social mediation and cultural transmission",
+                "Home visit initiatives and community listening",
+                "Integration of elderly in intergenerational programs (mentoring, crafts, agriculture)"
+            ]
+        },
+        "prisonniers": {
+            "problemes": [
+                "Lack of legal assistance",
+                "Inhumane living conditions",
+                "Complex post-detention reintegration",
+                "Chronic prison overcrowding and inhumane detention conditions",
+                "Lack of access to basic health care, hygiene, and sufficient food",
+                "Slowness of judicial procedures causing high proportion of pre-trial detainees",
+                "Absence of structured social and professional reintegration programs",
+                "Stigmatization of ex-detainees upon release, limiting their reintegration",
+                "Insufficient trained prison staff and logistical means",
+                "Recurrent violation of detainees' fundamental rights"
+            ],
+            "methodes": [
+                "Participatory approach / Co-construction",
+                "Independent national evaluation of detention conditions and prison system",
+                "Consultation with judicial actors, human rights NGOs, and former detainees",
+                "Continuous training of guards and criminal justice actors",
+                "Establishment of a national ethics and prison monitoring committee",
+                "Creation of partnerships between prison administration, civil society, and private sector",
+                "Strengthening capacities of courts to accelerate case processing",
+                "Promotion of restorative justice and alternative sentences to imprisonment"
+            ],
+            "solutions": [
+                "Constitution of a universal pro bono legal council",
+                "Establishment of an annual fundraising program for detainees' social assistance",
+                "Offer of guidance and training scholarships for former detainees with guaranteed socio-professional reintegration",
+                "Construction and rehabilitation of penitentiary institutions to human standards",
+                "Decongestion of prisons through strict application of pre-trial detention deadlines",
+                "Implementation of literacy, training, and work programs in prison",
+                "Systematic medical monitoring of detainees with access to mental and physical care",
+                "National reintegration program with psychological support and professional insertion",
+                "Legal protection of ex-detainees against discrimination in hiring and housing",
+                "Modernization of judicial system with digitization of criminal procedures",
+                "Creation of a prison dignity fund financed by State and partners"
+            ]
+        },
+        "fmo": {
+            "problemes": [
+                "Difficult working conditions and lack of adapted equipment (vehicles, bulletproof vests, radios, etc.)",
+                "Remuneration often considered insufficient relative to risks incurred",
+                "Lack of continuous training in human rights and conflict management",
+                "Negative perception and distrust of part of population towards FMO",
+                "Exposure to psychological risks (post-traumatic stress, isolation)",
+                "Delays in payment of mission or special operation bonuses",
+                "Inadequacy between operational needs and available logistics"
+            ],
+            "methodes": [
+                "Participative evaluation with FMO on field realities",
+                "Institutional dialogue between FMO corps and supervising ministries",
+                "Regular audits of allocations and available equipment",
+                "Establishment of psychological and social monitoring cells",
+                "Partnership with training and capacity building organizations",
+                "Consultation of populations on their expectations towards FMO"
+            ],
+            "solutions": [
+                "Improvement of working conditions: housing, equipment, secure transport",
+                "Revaluation of salaries and regular payment of risk or mission bonuses",
+                "Strengthening continuous training in ethics, crowd management, and human rights",
+                "Establishment of a national psychological support program for FMO",
+                "Creation of a mixed observatory (State - civil society - FMO) to monitor civil-military relations",
+                "Communication campaigns to restore FMO image among citizens",
+                "Digitization of administrative and logistic management systems (bonuses, assignments, evaluations)"
+            ]
+        },
+        "fonctionnaires": {
+            "problemes": [
+                "Low salaries compared to cost of living and responsibility level",
+                "Delays in integration, tenure, or administrative advancement",
+                "Slowness in processing administrative files (advancement, pension, transfer)",
+                "Lack of motivation due to absence of performance bonuses or objective evaluation",
+                "Insufficient continuous training and inadequacy with technological evolutions",
+                "Precarious working conditions in some administrations (dilapidated premises, obsolete equipment)",
+                "Favoritism, corruption, or clientelism in career management"
+            ],
+            "methodes": [
+                "Internal surveys and satisfaction polls in public services",
+                "Concertation between unions, ministries, and personnel departments",
+                "Diagnosis of administrative management systems and HR tools",
+                "Evaluation of training needs by professional groups",
+                "Creation of channels for denouncing and monitoring abuses or delays",
+                "Development of dashboards for monitoring administrative performance"
+            ],
+            "solutions": [
+                "Complete digitization of HR processes (recruitment, advancement, pension)",
+                "Establishment of one-stop shop for personnel administrative procedures",
+                "Progressive salary revaluation by priority categories and sectors",
+                "Creation of a bonus system based on performance and ethics",
+                "Renovation of offices and equipment with modern computer material",
+                "Mandatory continuous training in each sector every 2 to 3 years",
+                "Strengthening transparency and meritocracy in career management"
+            ]
+        },
+        "entrepreneurs": {
+            "problemes": [
+                "Financing",
+                "Staff qualification",
+                "Access to local and international markets",
+                "Difficulty accessing financing, especially for young entrepreneurs and SMEs",
+                "Administrative slowness and complexity of business creation procedures",
+                "Poor support in training, mentoring, and business management",
+                "Insufficient innovation support infrastructure (incubators, coworking spaces)",
+                "High and unpredictable tax burden for small structures",
+                "Lack of legal protection for local innovations",
+                "Poor access to public markets and export opportunities"
+            ],
+            "methodes": [
+                "Participatory approach / Co-construction",
+                "Concertation with entrepreneurs, chambers of commerce, and local incubators",
+                "Reduction of administrative barriers by digitizing creation and management procedures",
+                "Establishment of entrepreneurship one-stop shops by region",
+                "Creation of mentoring and experience sharing platforms",
+                "Development of national databases on SMEs and startups",
+                "Strategic partnerships with banks and impact investment funds",
+                "Development of an incentive tax policy for young enterprises"
+            ],
+            "solutions": [
+                "Implementation of the Diasponariat Program (Shareholding, Guarantee Fund, Shared Acquisition, Networking and Business Alliance)",
+                "Census of struggling micro, small and medium enterprises through a registration platform called AccèsEntreprise then organization 4 times a year of 4 webinars for capacity building, skills, attitudes and staff performance",
+                "Awareness for entrepreneurs to register with chambers of commerce and employers' associations, facilitation for access and participation in international meetings to establish partnerships or enrich perspectives",
+                "Creation of a National Fund for Youth and Female Entrepreneurship Support (FONAEJF)",
+                "Simplification and reduction of business creation delays to less than 48h",
+                "Establishment of regional innovation, incubation, and coworking hubs",
+                "National entrepreneurship training program from secondary school and in universities",
+                "Priority access for SMEs to public markets with reserved quotas",
+                "Temporary tax exemptions for startups and micro-enterprises",
+                "Strengthened protection of intellectual property of local products and innovations",
+                "Digital platform for connection with investors and external markets"
+            ]
+        },
+        "communautes_digitales": {
+            "problemes": [
+                "Lack of structuring and legal recognition of digital actors' status",
+                "Limited access to reliable and affordable internet connection, especially in rural areas",
+                "Absence of clear and adapted tax framework for digital activities (e-commerce, influence, freelancing)",
+                "Poor access to financing for local digital projects",
+                "Little institutional support for digital innovation or tech startups",
+                "Plagiarism and non-respect of intellectual property on digital content",
+                "Lack of practical training in digital development, digital marketing, cybersecurity"
+            ],
+            "methodes": [
+                "Census of digital actors and mapping of digital communities by city",
+                "Organization of consultation forums between creators, authorities, and telecom operators",
+                "Dialogue with tax administrations to adapt regulations",
+                "Partnerships between State, incubators, universities, and digital companies",
+                "Support for establishment of regional digital hubs",
+                "Awareness campaigns on digital rights and intellectual property"
+            ],
+            "solutions": [
+                "Creation of specific legal status for freelancers, creators, and tech startups",
+                "Subsidy of internet access for young digital project holders",
+                "Development of a simplified tax code for digital activities",
+                "Funding of micro-digital projects through innovation funds or national competitions",
+                "Establishment of training and coworking centers in regions",
+                "Strengthening legal framework on cybersecurity and digital rights",
+                "Annual organization of a National Digital Fair to valorize local talents"
+            ]
+        }
+    },
+    "programDetail": {
+        "cta": {
+            "title": "Join our movement",
+            "description": "Together, we can build a better future for all {{category}} in Cameroon."
+        },
+        "notFound": {
+            "title": "Category not found",
+            "message": "The program category you are looking for does not exist.",
+            "button": "Back to homepage"
+        }
+    },
+    "programCategories": {
+        "title": "Categories"
+    },
+    "programCategory": {
+        "error": {
+            "noData": "No data available for this category.",
+            "backButton": "Back to homepage"
+        }
+    },
+    "programm": {
+        "hero": {
+            "title": "Our Program",
+            "subtitle": "A societal project to transform Cameroon",
+            "badge": "Vision 2035: Emerging Cameroon"
+        },
+        "vision": {
+            "title": "Our Vision",
+            "quote": "\"Make Cameroon an African economic power by 2035\"",
+            "description": "Our program is structured around 6 national priorities, with the objective of creating a {bold}prosperous, just, and modern Cameroon{/bold} that offers opportunities to all its citizens."
+        },
+        "priorities": {
+            "title": "6 National Priorities",
+            "economy": {
+                "title": "Economy & Employment",
+                "subtitle": "Inclusive and sustainable growth",
+                "proposals": [
+                    "Creation of one million jobs in 5 years",
+                    "Support for Cameroonian SMEs and startups",
+                    "Industrialization of the agricultural sector",
+                    "Development of local tourism"
+                ]
+            },
+            "education": {
+                "title": "Education & Training",
+                "subtitle": "Quality human capital",
+                "proposals": [
+                    "Reform of the national education system",
+                    "Technical and professional training",
+                    "Cameroonian digital university",
+                    "Excellence scholarships for the diaspora"
+                ]
+            },
+            "health": {
+                "title": "Health & Social",
+                "subtitle": "Well-being for all",
+                "proposals": [
+                    "Universal health coverage",
+                    "Modernization of public hospitals",
+                    "Preventive medicine and vaccination",
+                    "Support for vulnerable people"
+                ]
+            },
+            "infrastructure": {
+                "title": "Infrastructure",
+                "subtitle": "Modernization of the country",
+                "proposals": [
+                    "Quality roads and bridges",
+                    "Complete rural electrification",
+                    "National high-speed internet",
+                    "Accessible social housing"
+                ]
+            },
+            "security": {
+                "title": "Security & Justice",
+                "subtitle": "Strengthened rule of law",
+                "proposals": [
+                    "Reform of police and gendarmerie",
+                    "Independent and effective justice",
+                    "Fight against corruption",
+                    "Border security"
+                ]
+            },
+            "environment": {
+                "title": "Environment",
+                "subtitle": "Sustainable development",
+                "proposals": [
+                    "Protection of Cameroonian forests",
+                    "Renewable energies",
+                    "Urban waste management",
+                    "Ecological agriculture"
+                ]
+            }
+        },
+        "reforms": {
+            "title": "Structural Reforms",
+            "subtitle": "Deep transformations to modernize our institutions",
+            "constitutional": {
+                "title": "Constitutional Reform",
+                "description": "Strengthening democracy and checks and balances",
+                "items": [
+                    "Term limits",
+                    "Separation of powers",
+                    "Effective decentralization"
+                ]
+            },
+            "digital": {
+                "title": "Digital Governance",
+                "description": "Modern and transparent administration",
+                "items": [
+                    "E-administration",
+                    "Open data",
+                    "Citizen participation"
+                ]
+            },
+            "diaspora": {
+                "title": "Diaspora Integration",
+                "description": "Mobilization of Cameroonian skills abroad",
+                "items": [
+                    "Dual nationality",
+                    "Voting abroad",
+                    "Diaspora investments"
+                ]
+            }
+        },
+        "objectives": {
+            "title": "2035 Objectives",
+            "growth": {
+                "label": "Annual GDP growth"
+            },
+            "electrification": {
+                "label": "Electrification rate"
+            },
+            "jobs": {
+                "label": "Jobs created"
+            },
+            "healthcare": {
+                "label": "Healthcare coverage"
+            }
+        }
+    }
+}

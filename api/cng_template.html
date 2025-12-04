@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Nouvelle Candidature CNG</title>
+</head>
+<body style="margin: 0; padding: 20px; background-color: #f4f4f4; font-family: 'Segoe UI', sans-serif;">
+
+  <div style="max-width: 700px; margin: auto; background: #ffffff; border-radius: 8px; overflow: hidden; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+
+    <!-- En-tête avec bande tricolore -->
+    <div style="background: linear-gradient(to right, #009E49, #FFD700, #CE1126); padding: 15px 20px; display: flex; align-items: center; justify-content: space-between;">
+      <h2 style="margin: 0; color: white; font-size: 22px;">Nouvelle demande de coalition - <span style="font-weight: bold;">CNG</span></h2>
+    </div>
+
+    <!-- Contenu principal -->
+    <div style="padding: 20px 12px;">
+
+      <!-- Deux colonnes : logo à gauche, infos à droite -->
+      <div style="display: flex; flex-wrap: wrap; gap: 20px;">
+        <!-- Colonne logo -->
+        <div style="flex: 1 1 35%; display: flex; align-items: center; justify-content: center; background-color: #f9f9f9; padding: 15px;">
+          <img src="cid:logo" alt="Logo du Parti" style="max-width: 100%; height: 100%; object-fit: contain;">
+        </div>
+
+        <!-- Colonne infos -->
+        <div style="flex: 1 1 65%;">
+          <p style="margin-bottom: 8px;"><strong style="color: #009E49;">Prénom :</strong> {{prenom}}</p>
+          <p style="margin-bottom: 8px;"><strong style="color: #009E49;">Nom :</strong> {{nom}}</p>
+          <p style="margin-bottom: 8px;"><strong style="color: #009E49;">Âge :</strong> {{age}}</p>
+          <p style="margin-bottom: 8px;"><strong style="color: #009E49;">Email :</strong> {{email}}</p>
+          <p style="margin-bottom: 8px;"><strong style="color: #009E49;">Téléphone :</strong> {{telephone}}</p>
+          <p style="margin-bottom: 8px;"><strong style="color: #009E49;">Profession :</strong> {{profession}}</p>
+          <p style="margin-bottom: 8px;"><strong style="color: #009E49;">Nom du parti politique :</strong> {{parti}}</p>
+          <p style="margin-bottom: 8px;"><strong style="color: #009E49;">Région :</strong> {{region}}</p>
+          <p style="margin-bottom: 8px;"><strong style="color: #009E49;">Ville :</strong> {{ville}}</p>
+        </div>
+      </div>
+
+      <hr style="border: none; border-top: 1px solid #eee; margin: 25px 0;">
+
+      <!-- Réponses aux questions -->
+      <p style="margin-bottom: 10px;font-size: .9rem;"><strong style="color: #CE1126;">Pourquoi souhaitez-vous rejoindre la CNG ?</strong></p>
+      <p style="background-color: #fdf7e3; padding: 10px; border-left: 4px solid #FFD700;">{{motivation}}</p>
+
+      <p style="margin-top: 20px;;font-size: .9rem; margin-bottom: 10px;"><strong style="color: #CE1126;">Compétences et domaines d'expertise :</strong></p>
+      <p style="background-color: #f1fdf6; padding: 10px; border-left: 4px solid #009E49;">{{competences}}</p>
+
+      <p style="margin-top: 20px; ;font-size: .9rem; margin-bottom: 10px;"><strong style="color: #CE1126;">Expérience politique ou associative :</strong></p>
+      <p style="background-color: #fff3f3; padding: 10px; border-left: 4px solid #CE1126;">{{experience}}</p>
+
+      <p style="margin-top: 20px; ;font-size: .9rem; margin-bottom: 10px;"><strong style="color: #CE1126;">Disponibilité pour l'engagement :</strong></p>
+      <p style="background-color: #fdf7e3; padding: 10px; border-left: 4px solid #FFD700;">{{disponibilite}}</p>
+
+    </div>
+
+    <!-- Pied de page -->
+    <div style="background-color: #fafafa; padding: 15px 20px; text-align: center; font-size: 12px; color: #888;">
+      Email généré automatiquement par le formulaire <strong>CNG</strong> – {{date}}
+    </div>
+
+  </div>
+
+</body>
+</html>

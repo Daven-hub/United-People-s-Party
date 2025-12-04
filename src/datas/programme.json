@@ -1,0 +1,504 @@
+[
+  {
+    "categ": "éleves",
+    "body": {
+      "probleme": [
+        "Manque d'infrastructures scolaires adéquates dans de nombreuses régions",
+        "Coût élevé des fournitures scolaires et des frais de scolarité",
+        "Absence de cantines scolaires et de programmes d'alimentation",
+        "Qualité insuffisante de l'enseignement dans certaines écoles",
+        "Manque de transport scolaire, particulièrement en zones rurales",
+        "Décrochage scolaire précoce dû aux difficultés socio-économiques",
+        "Inégalités d'accès à l'éducation entre régions urbaines et rurales"
+      ],
+      "method": [
+        "Diagnostic participatif avec les communautés scolaires et les parents",
+        "Collaboration avec les collectivités locales et les partenaires éducatifs",
+        "Mise en place de comités de suivi communautaires",
+        "Évaluation continue des besoins et ajustement des programmes",
+        "Formation et sensibilisation des acteurs éducatifs",
+        "Création de partenariats public-privé pour l'éducation"
+      ],
+      "solution": [
+        "Construction et réhabilitation d'écoles dans les zones défavorisées",
+        "Mise en place d'un programme de fournitures scolaires gratuites",
+        "Création de cantines scolaires avec produits locaux",
+        "Formation continue des enseignants et amélioration de leurs conditions",
+        "Développement d'un système de transport scolaire accessible",
+        "Bourses d'études pour les élèves méritants de familles modestes",
+        "Programme d'accompagnement scolaire et de soutien psychosocial",
+        "Digitalisation progressive de l'enseignement avec équipements informatiques"
+      ]
+    }
+  },
+  {
+    "categ": "étudiants",
+    "body": {
+      "probleme": [
+        "Frais de scolarité élevés et peu de soutien financier",
+        "Manque d’accès aux logements universitaires décents",
+        "Inadéquation entre la formation académique et les besoins du marché de l’emploi",
+        "Accès limité aux stages, à l’entrepreneuriat et aux opportunités professionnelles",
+        "Insuffisance des équipements pédagogiques et infrastructures numériques",
+        "Stress psychologique et manque de services de santé mentale",
+        "Difficulté d’accès à l’information académique et administrative"
+      ],
+      "method": [
+        "Consultations avec les associations étudiantes et les universités",
+        "Mise en place d’observatoires pour suivre les parcours étudiants",
+        "Partenariat avec le secteur privé et les entreprises locales",
+        "Diagnostic territorial des besoins en infrastructures universitaires",
+        "Sensibilisation des acteurs publics sur les réalités étudiantes",
+        "Création de forums de dialogue entre étudiants et institutions"
+      ],
+      "solution": [
+        "Mise en place de bourses d’études et de prêts étudiants à taux préférentiels",
+        "Construction et réhabilitation de cités universitaires accessibles",
+        "Révision des curriculums pour mieux répondre aux besoins du marché",
+        "Création de centres de stages, incubateurs et fablabs universitaires",
+        "Équipement des universités en bibliothèques numériques et laboratoires modernes",
+        "Mise en place de cellules d’écoute psychologique et de santé préventive",
+        "Digitalisation des services administratifs universitaires (inscriptions, bourses, etc.)"
+      ]
+    }
+  },
+  {
+    "categ": "Commerçants",
+    "body": {
+      "probleme": [
+        "Multiplicité des taxes et charges fiscales non harmonisées",
+        "Accès limité aux financements pour les petits commerçants",
+        "Manque de formation en gestion, comptabilité et marketing",
+        "Insécurité dans les marchés et zones commerciales",
+        "Infrastructure commerciale inadéquate (étals, hangars, routes d'accès)",
+        "Concurrence déloyale avec les produits importés de mauvaise qualité",
+        "Instabilité des politiques commerciales locales et absence de protection des petits commerces"
+      ],
+      "method": [
+        "Concertations régulières avec les syndicats et associations de commerçants",
+        "Diagnostic des circuits de distribution et de fiscalité locale",
+        "Partenariats avec les institutions de microfinance et banques locales",
+        "Mise en place de cellules d’appui à la formalisation des petits commerces",
+        "Formation continue des commerçants en gestion et numérique",
+        "Dialogue entre collectivités locales et commerçants pour des réformes adaptées"
+      ],
+      "solution": [
+        "Réforme de la fiscalité locale pour simplifier et harmoniser les taxes",
+        "Création de fonds de microcrédit spécifiques aux petits commerçants",
+        "Construction et réhabilitation des marchés avec sécurité et hygiène",
+        "Mise en place de programmes de formation en gestion de commerce",
+        "Protection des produits locaux contre la concurrence extérieure déloyale",
+        "Digitalisation de la gestion des commerces (paiement mobile, e-commerce local)",
+        "Programme de formalisation simplifiée pour les petits commerçants informels"
+      ]
+    }
+  },
+  {
+    "categ": "Salariés",
+    "body": {
+      "probleme": [
+        "Faiblesse des salaires par rapport au coût de la vie",
+        "Retards fréquents dans le paiement des salaires, surtout dans le secteur public ou informel",
+        "Non-respect du code du travail et absence de contrat formel pour de nombreux travailleurs",
+        "Faible accès à la protection sociale (CNPS, assurance maladie, retraite)",
+        "Conditions de travail précaires et manque de sécurité sur les lieux de travail",
+        "Faibles perspectives d’évolution de carrière et de formation continue",
+        "Syndicalisme affaibli et faible représentativité des salariés dans le dialogue social"
+      ],
+      "method": [
+        "Dialogue social renforcé entre l’État, les employeurs et les syndicats",
+        "Audits sur les pratiques d’embauche et de rémunération dans les entreprises",
+        "Partenariat avec les institutions de sécurité sociale pour la sensibilisation",
+        "Campagnes d'information sur les droits des travailleurs",
+        "Encouragement des entreprises à investir dans la formation professionnelle",
+        "Renforcement des capacités des syndicats pour une meilleure représentation"
+      ],
+      "solution": [
+        "Revalorisation du SMIG (salaire minimum interprofessionnel garanti)",
+        "Mise en place de mécanismes de contrôle pour garantir le paiement régulier des salaires",
+        "Obligation de contrats écrits pour tout emploi, y compris dans le secteur informel",
+        "Simplification de l’adhésion à la CNPS et création d'une couverture santé universelle pour les salariés",
+        "Inspection régulière des lieux de travail pour le respect des normes de sécurité",
+        "Création de centres de formation continue subventionnés pour les salariés",
+        "Renforcement du dialogue social tripartite (État – Employeurs – Syndicats)"
+      ]
+    }
+  },
+  {
+    "categ": "Travailleurs de métiers spécialisés",
+    "body": {
+      "probleme": [
+        "Manque de reconnaissance officielle des compétences acquises sur le tas",
+        "Accès limité à la formation technique continue et à la certification",
+        "Difficulté à accéder au financement pour développer leur activité",
+        "Faible couverture sociale et absence de contrats de travail formels",
+        "Concurrence déloyale de prestataires non qualifiés ou étrangers",
+        "Absence de plateformes pour la mise en relation avec la clientèle",
+        "Conditions de travail précaires et exposition à des risques professionnels"
+      ],
+      "method": [
+        "Recensement national des travailleurs spécialisés par secteur",
+        "Collaboration avec les centres de formation professionnelle (CFP, IFORD, etc.)",
+        "Mise en place de programmes de validation des acquis de l’expérience (VAE)",
+        "Dialogue entre coopératives, artisans et autorités locales",
+        "Sensibilisation sur la protection sociale et la sécurité au travail",
+        "Encouragement à la formalisation à travers des incitations fiscales"
+      ],
+      "solution": [
+        "Création d’un programme national de certification des compétences artisanales",
+        "Subvention ou gratuité des formations pour l’obtention de diplômes qualifiants (CAP, CQP)",
+        "Mise en place de micro-crédits et de subventions pour l’achat d’outils et de matériaux",
+        "Enregistrement simplifié des travailleurs dans des coopératives ou registres professionnels",
+        "Plateformes numériques ou physiques pour faciliter la visibilité et la mise en relation",
+        "Assurance santé et retraite adaptée aux travailleurs indépendants",
+        "Campagnes de promotion des métiers spécialisés auprès des jeunes et du grand public"
+      ]
+    }
+  },
+  {
+    "categ": "Orphelins",
+    "body": {
+      "probleme": [
+        "Manque de moyen de subsistance, besoin matériel et sanitaire",
+        "Sous scolarisation ou absence de scolarisation",
+        "Avenir incertain sinon inexistant",
+        "Insuffisance de structures d’accueil et d’encadrement adaptées pour les orphelins",
+        "Stigmatisation sociale et marginalisation des orphelins dans certaines communautés",
+        "Accès limité à l’éducation, à la santé et à l’état civil (actes de naissance)",
+        "Manque de suivi psychosocial et de soutien affectif",
+        "Précarité économique entraînant l'exploitation ou le travail précoce"
+      ],
+      "method": [
+        "Proposition de loi, Approche participative / Co-construction",
+        "Cartographie nationale des orphelins et des structures d’accueil existantes",
+        "Consultations communautaires et implication des leaders traditionnels et religieux",
+        "Mise en réseau des centres d’accueil et harmonisation des pratiques",
+        "Formation du personnel encadrant aux approches psychosociales et protectrices",
+        "Élaboration d’un cadre légal spécifique en faveur des enfants orphelins",
+        "Collaboration avec les ONG et les partenaires sociaux pour le parrainage communautaire",
+        "Suivi longitudinal des enfants orphelins jusqu’à leur insertion socio-professionnelle"
+      ],
+      "solution": [
+        "Proposition de loi sur un statut spécial de l’orphelin assorti d’avantages spéciaux pour l’ensemble des services publics (école, hôpital, centre commercial, documents administratifs)",
+        "Renforcement des capacités des éducateurs en milieu orphelinat",
+        "Mise en place d’un programme diaspo-social et RSE au bénéfice des orphelinats.",
+        "Octroi systématique d’actes de naissance et enregistrement civil facilité",
+        "Mise en place d’un fonds national de solidarité pour la protection des orphelins",
+        "Programme de parrainage social (familles d’accueil rémunérées et encadrées)",
+        "Accompagnement psychosocial avec assistance sociale, psychologues et éducateurs spécialisés",
+        "Insertion professionnelle progressive avec formations, bourses et micro-crédits",
+        "Campagnes nationales de sensibilisation pour lutter contre la stigmatisation"
+      ]
+    }
+  },
+  {
+    "categ": "Jeunes filles mères",
+    "body": {
+      "probleme": [
+        "Sous scolarisation ou absence de scolarisation",
+        "Précarité sociale / Absence d’emploi",
+        "Prise en charge médiocre de l’enfant ou abandon",
+        "Stigmatisation sociale et rejet familial des jeunes filles mères",
+        "Abandon scolaire ou difficulté à poursuivre les études après la maternité",
+        "Manque d’accès à des services de santé sexuelle et reproductive adaptés",
+        "Précarité économique et absence d’autonomie financière",
+        "Absence de structures d’accueil ou de crèches pour permettre la reprise des études ou du travail",
+        "Risque accru d’exploitation, de violences basées sur le genre et de récidive de grossesses précoces",
+        "Faible prise en compte de la problématique dans les politiques publiques"
+      ],
+      "method": [
+        "Approche participative / Co-construction",
+        "Écoute communautaire et enquêtes participatives avec les jeunes filles concernées",
+        "Mobilisation des acteurs locaux (chefs, éducateurs, parents, associations de femmes)",
+        "Création de groupes de parole et de soutien psychologique pour les jeunes mères",
+        "Campagnes de sensibilisation dans les écoles et les communautés sur les droits et la dignité des jeunes mères",
+        "Partenariats avec les centres de formation professionnelle, de santé et les ONG",
+        "Mise en place de référents sociaux dans les établissements scolaires et de santé",
+        "Intégration des besoins des jeunes filles mères dans les plans communaux de développement"
+      ],
+      "solution": [
+        "Accompagnement pour obtention de bourse de formation du MINFOP",
+        "Accompagnement pour la recherche et le placement chez un employeur",
+        "Négociation avec le Ministère des Affaires sociales pour reconnaissance d’un statut social exceptionnel pour les JFM avec effet sur la prise en charge prioritaire des enfants",
+        "Réintégration scolaire facilitée avec bourses spécifiques et accompagnement individualisé",
+        "Création de centres d’accueil et de réinsertion pour jeunes filles mères",
+        "Mise en place de crèches communautaires gratuites à proximité des centres de formation ou écoles",
+        "Accès gratuit aux soins de santé maternelle, infantile et psychologique",
+        "Formations qualifiantes et financement de projets d’auto-emploi ou de coopératives locales",
+        "Loi de protection contre les discriminations scolaires et professionnelles des jeunes mères",
+        "Campagnes massives de déstigmatisation à travers les médias, les écoles et les lieux publics",
+        "Création d’un fonds spécial pour l’autonomisation des jeunes filles mères vulnérables"
+      ]
+    }
+  },
+  {
+    "categ": "Veuves",
+    "body": {
+      "probleme": [
+        "Litiges familiaux (pension alimentaire, remariage forcé)",
+        "Litiges fonciers (expropriation)",
+        "Déscolarisation des enfants/précarité sociale",
+        "Discrimination et marginalisation sociale après le décès du conjoint",
+        "Spoliation des biens par la belle-famille, en particulier en milieu rural",
+        "Absence de protection juridique effective des droits successoraux",
+        "Faible accès aux ressources économiques et à l’emploi",
+        "Manque de soutien psychologique et social après le deuil",
+        "Inexistence de dispositifs publics d’assistance ciblée pour les veuves",
+        "Double charge de parentalité sans accompagnement spécifique"
+      ],
+      "method": [
+        "Proposition de loi, Approche participative / Co-construction",
+        "Recensement des veuves et identification de leurs besoins spécifiques par localité",
+        "Dialogue communautaire avec les chefs traditionnels et leaders religieux pour briser les tabous",
+        "Renforcement des capacités des services sociaux et juridiques à répondre aux situations de veuvage",
+        "Création de plateformes d’écoute, d’entraide et de plaidoyer portées par les veuves elles-mêmes",
+        "Travail avec les tribunaux coutumiers et civils pour la sécurisation des droits des veuves",
+        "Appui technique aux associations de veuves existantes pour une meilleure coordination",
+        "Intégration de la problématique des veuves dans les stratégies nationales de lutte contre la pauvreté"
+      ],
+      "solution": [
+        "Constitution d’un conseil juridique à titre Probono",
+        "Renforcement de la compréhension des droits en matière foncière",
+        "Aide à la scolarisation à travers un programme élargi de parrainage scolaire",
+        "Adoption d’une loi claire et protectrice sur les droits des veuves et l’héritage",
+        "Création d’un fonds spécial d’accompagnement économique et social des veuves",
+        "Mise en place de centres d’écoute et de suivi psychologique dans chaque département",
+        "Appui à l’entrepreneuriat féminin des veuves par des financements dédiés et formations",
+        "Programme d’accès prioritaire des veuves aux logements sociaux et à la couverture santé",
+        "Campagnes nationales contre la stigmatisation et la spoliation des veuves",
+        "Encadrement juridique gratuit pour faire valoir leurs droits successoraux et familiaux",
+        "Insertion des veuves dans des coopératives locales ou programmes d’emplois communautaires"
+      ]
+    }
+  },
+  {
+    "categ": "Diapora Camerounaise",
+    "body": {
+      "probleme": [
+        "Difficultés d’investissement et d’entrepreneuriat au pays",
+        "Faible reconnaissance et valorisation des compétences de la diaspora",
+        "Accès limité à l’information administrative et juridique au Cameroun",
+        "Difficultés de participation politique (vote, représentation, dialogue)",
+        "Manque d’accompagnement pour le retour volontaire ou la réinsertion"
+      ],
+      "method": [
+        "Création d’un Conseil Consultatif de la Diaspora",
+        "Mise en place d’un guichet unique numérique pour la diaspora",
+        "Lancement d’un programme de “retour structuré et sécurisé",
+        "Organisation régulière de forums de dialogue diaspora-gouvernement",
+        "Création d’un fonds spécial de soutien aux projets de la diaspora"
+      ],
+      "solution": [
+        "Valorisation des compétences de la diaspora dans les projets de développement local",
+        "Exonérations fiscales temporaires pour les entrepreneurs de la diaspora",
+        "Mise en place effective du vote électronique sécurisé pour les Camerounais de l’étranger",
+        "Création d’attachés diaspora dans les ambassades et consulats Chargés de relayer les préoccupations et projets des Camerounais de l’étranger.",
+        "Développement d’un programme immobilier spécial diaspora Appuyé par l’État, avec des garanties juridiques et financières encadrées."
+      ]
+    }
+  },
+  {
+    "categ": "Personnes âgées",
+    "body": {
+      "probleme": [
+        "Absence de système de retraite efficace pour la majorité des personnes âgées",
+        "Accès difficile aux soins de santé adaptés à leur âge",
+        "Isolement social et abandon familial fréquent",
+        "Manque d’infrastructures d’accueil ou de centres de jour pour personnes âgées",
+        "Vulnérabilité face à la pauvreté et à la précarité alimentaire",
+        "Non-reconnaissance de leur rôle et de leur savoir dans la société",
+        "Absence de politiques publiques spécifiques en faveur du troisième âge"
+      ],
+      "method": [
+        "Identification et recensement des personnes âgées vulnérables par localité",
+        "Concertation avec les familles, les chefs de quartiers et les leaders communautaires",
+        "Partenariat avec les centres de santé, mutuelles, ONG et églises",
+        "Élaboration d’une politique nationale pour le bien-être des personnes âgées",
+        "Mise en place de comités communaux de suivi du bien-être des personnes âgées",
+        "Sensibilisation communautaire à la prise en charge familiale des aînés"
+      ],
+      "solution": [
+        "Mise en place d’un fonds spécial de soutien social pour les personnes âgées sans retraite",
+        "Soins de santé gratuits ou subventionnés pour les seniors dans les hôpitaux publics",
+        "Création de centres d’accueil de jour et d’activités pour personnes âgées",
+        "Programme alimentaire ciblé pour les personnes âgées vulnérables",
+        "Reconnaissance et valorisation du rôle des anciens dans la médiation sociale et la transmission culturelle",
+        "Initiatives de visites à domicile et d’écoute communautaire",
+        "Intégration des personnes âgées dans des programmes intergénérationnels (mentorats, artisanat, agriculture)"
+      ]
+    }
+  },
+  {
+    "categ": "Prisonniers",
+    "body": {
+      "probleme": [
+        "Défaut d’assistance juridique",
+        "Conditions de vie inhumaine",
+        "Réinsertion post-détention souvent complexe",
+        "Surpopulation carcérale chronique et conditions de détention inhumaines",
+        "Manque d’accès aux soins de santé de base, à l’hygiène et à une alimentation suffisante",
+        "Lenteur des procédures judiciaires causant une forte proportion de détenus préventifs",
+        "Absence de programmes structurés de réinsertion sociale et professionnelle",
+        "Stigmatisation des ex-détenus à leur sortie, limitant leur réintégration",
+        "Insuffisance de personnel pénitentiaire formé et de moyens logistiques",
+        "Violation récurrente des droits fondamentaux des détenus"
+      ],
+      "method": [
+        "Approche participative / Co-construction",
+        "Évaluation nationale indépendante des conditions de détention et du système carcéral",
+        "Consultation avec les acteurs judiciaires, les ONG des droits humains et les anciens détenus",
+        "Formation continue des gardiens et des acteurs de la justice pénale",
+        "Mise en place d’un comité national d’éthique et de suivi des prisons",
+        "Création de partenariats entre administration pénitentiaire, société civile et secteur privé",
+        "Renforcement des capacités des juridictions à accélérer le traitement des dossiers",
+        "Promotion de la justice réparatrice et des peines alternatives à l’emprisonnement"
+      ],
+      "solution": [
+        "Constitution d’un conseil juridique universel agissant à titre probono",
+        "Mise en place d’un programme de levée de fonds annuelle pour assistance sociale des détenus",
+        "Offre d’un encadrement en orientation et bourses de formation pour anciens détenus avec garantie de réinsertion socio-professionnelle",
+        "Construction et réhabilitation des établissements pénitentiaires aux normes humaines",
+        "Décongestion des prisons par l’application stricte des délais de détention préventive",
+        "Mise en œuvre de programmes d’alphabétisation, de formation et de travail en prison",
+        "Suivi médical systématique des détenus avec accès aux soins mentaux et physiques",
+        "Programme national de réinsertion avec soutien psychologique et insertion professionnelle",
+        "Protection légale des ex-détenus contre la discrimination à l’embauche et au logement",
+        "Modernisation du système judiciaire avec numérisation des procédures pénales",
+        "Création d’un fonds de dignité carcérale financé par l’État et des partenaires"
+      ]
+    }
+  },
+  {
+    "categ": "FMO",
+    "body": {
+      "probleme": [
+        "Conditions de travail difficiles et manque d’équipements adaptés (véhicules, gilets pare-balles, radios, etc.)",
+        "Rémunération souvent jugée insuffisante par rapport aux risques encourus",
+        "Manque de formation continue en matière de droits humains et de gestion des conflits",
+        "Perception négative et défiance d’une partie de la population envers les FMO",
+        "Exposition à des risques psychologiques (stress post-traumatique, isolement)",
+        "Retards dans le paiement des primes de mission ou d’opérations spéciales",
+        "Inadéquation entre les besoins opérationnels et la logistique disponible"
+      ],
+      "method": [
+        "Évaluation participative avec les FMO sur les réalités du terrain",
+        "Dialogue institutionnel entre les corps des FMO et les ministères de tutelle",
+        "Audits réguliers des dotations et des équipements disponibles",
+        "Mise en place de cellules de suivi psychologique et social",
+        "Partenariat avec des organismes de formation et de renforcement des capacités",
+        "Consultation des populations sur leurs attentes vis-à-vis des FMO"
+      ],
+      "solution": [
+        "Amélioration des conditions de travail : logements, équipements, transport sécurisé",
+        "Revalorisation des salaires et paiement régulier des primes de risque ou de mission",
+        "Renforcement de la formation continue en éthique, gestion de foule et droits humains",
+        "Mise en place d’un programme national de soutien psychologique pour les FMO",
+        "Création d’un observatoire mixte (État – société civile – FMO) pour surveiller les relations civilo-militaires",
+        "Campagnes de communication pour restaurer l’image des FMO auprès des citoyens",
+        "Digitalisation des systèmes de gestion administrative et logistique (primes, affectations, évaluations)"
+      ]
+    }
+  },
+  {
+    "categ": "Fonctionnaires",
+    "body": {
+      "probleme": [
+        "Faibles salaires par rapport au coût de la vie et au niveau de responsabilité",
+        "Retards dans l’intégration, la titularisation ou l’avancement administratif",
+        "Lenteur dans le traitement des dossiers administratifs (avancement, pension, mutation)",
+        "Manque de motivation dû à l’absence de primes de performance ou d’évaluation objective",
+        "Insuffisance de formation continue et inadéquation avec les évolutions technologiques",
+        "Conditions de travail précaires dans certaines administrations (locaux délabrés, matériel obsolète)",
+        "Favoritisme, corruption ou clientélisme dans la gestion des carrières"
+      ],
+      "method": [
+        "Enquêtes internes et sondages de satisfaction dans les services publics",
+        "Concertations entre syndicats, ministères et directions du personnel",
+        "Diagnostic des systèmes de gestion administrative et des outils RH",
+        "Évaluation des besoins en formation par corps de métiers",
+        "Création de canaux de dénonciation et de suivi des abus ou retards",
+        "Développement de tableaux de bord pour le suivi des performances administratives"
+      ],
+      "solution": [
+        "Digitalisation complète des processus RH (recrutement, avancement, pension)",
+        "Mise en place d’un guichet unique pour les démarches administratives du personnel",
+        "Revalorisation salariale progressive par catégories et secteurs prioritaires",
+        "Création d’un système de prime basé sur la performance et l’éthique",
+        "Rénovation des bureaux et dotation en matériel informatique moderne",
+        "Formation continue obligatoire dans chaque secteur tous les 2 à 3 ans",
+        "Renforcement de la transparence et de la méritocratie dans la gestion des carrières"
+      ]
+    }
+  },
+  {
+    "categ": "Entrepreneurs",
+    "body": {
+      "probleme": [
+        "Financement",
+        "Qualification du personnel",
+        "Accès aux marchés locaux et internationaux ",
+        "Accès difficile au financement, en particulier pour les jeunes entrepreneurs et les TPME",
+        "Lenteur administrative et complexité des procédures de création d’entreprise",
+        "Faible accompagnement en matière de formation, mentorat et gestion d’entreprise",
+        "Insuffisance d'infrastructures de soutien à l’innovation (incubateurs, espaces de coworking)",
+        "Charge fiscale élevée et imprévisible pour les petites structures",
+        "Manque de protection juridique pour les innovations locales",
+        "Faible accès aux marchés publics et aux opportunités d’exportation"
+      ],
+      "method": [
+        "Approche participative / Co-construction",
+        "Concertation avec les entrepreneurs, les chambres de commerce et les incubateurs locaux",
+        "Réduction des barrières administratives en digitalisant les démarches de création et de gestion",
+        "Mise en place de guichets uniques de l’entrepreneuriat par région",
+        "Création de plateformes de mentorat et de partage d’expériences",
+        "Développement de bases de données nationales sur les TPME et startups",
+        "Partenariats stratégiques avec les banques et les fonds d’investissement à impact",
+        "Élaboration d’une politique fiscale incitative pour les jeunes entreprises"
+      ],
+      "solution": [
+        "Mise en place du Programme Diasponariat (Actionnariat, Fond de garantie, Acquisition partagée, Maillage et Alliance d’affaires)",
+        "Recensement des TPE, PME PMI en difficulté à travers une plateforme d’enregistrement dénommée AccèsEntreprise puis organisation 4 fois l’année de 4 webinaires de renforcement des capacités, aptitudes, attitudes et performance du personnel",
+        "Sensibilisation des entrepreneurs à s’inscrire aux seins des chambres de commerce et des regroupements ou associations patronales, facilitation pour des accès et participation à des rencontres internationales pour nouer des partenariats ou enrichir des perspectives",
+        "Création d’un Fonds National d’Appui à l’Entrepreneuriat Jeune et Féminin (FONAEJF)",
+        "Simplification et réduction des délais de création d’entreprise à moins de 48h",
+        "Mise en place de pôles régionaux d’innovation, d’incubation et de coworking",
+        "Programme national de formation à l’entrepreneuriat dès le secondaire et dans les universités",
+        "Accès prioritaire des PME aux marchés publics avec quotas réservés",
+        "Exonérations fiscales temporaires pour les startups et micro-entreprises",
+        "Protection renforcée de la propriété intellectuelle des produits et innovations locales",
+        "Plateforme digitale de mise en relation avec les investisseurs et marchés extérieurs"
+      ]
+    }
+  },
+  {
+    "categ": "communautés digitales",
+    "body": {
+      "probleme": [
+        "Manque de structuration et de reconnaissance légale du statut des acteurs digitaux",
+        "Accès limité à une connexion internet fiable et abordable, surtout en zones rurales",
+        "Absence de cadre fiscal clair et adapté pour les activités numériques (e-commerce, influence, freelancing)",
+        "Faible accès au financement pour les projets numériques locaux",
+        "Peu de soutien institutionnel à l’innovation numérique ou aux startups tech",
+        "Plagiat et non-respect de la propriété intellectuelle sur les contenus numériques",
+        "Manque de formations pratiques en développement digital, marketing numérique, cybersécurité"
+      ],
+      "method": [
+        "Recensement des acteurs du numérique et cartographie des communautés digitales par ville",
+        "Organisation de forums de concertation entre créateurs, autorités et opérateurs télécoms",
+        "Dialogue avec les administrations fiscales pour adapter la réglementation",
+        "Partenariats entre État, incubateurs, universités et entreprises du digital",
+        "Soutien à la mise en place de hubs numériques régionaux",
+        "Campagnes de sensibilisation sur les droits numériques et la propriété intellectuelle"
+      ],
+      "solution": [
+        "Création d’un statut juridique spécifique pour les freelances, créateurs et startups tech",
+        "Subvention de l’accès internet pour les jeunes porteurs de projets numériques",
+        "Développement d’un code fiscal simplifié pour les activités digitales",
+        "Financement de microprojets digitaux via des fonds d’innovation ou concours nationaux",
+        "Mise en place de centres de formation et de coworking dans les régions",
+        "Renforcement du cadre juridique sur la cybersécurité et les droits numériques",
+        "Organisation annuelle d’un Salon National du Numérique pour valoriser les talents locaux"
+      ]
+    }
+  }
+]
