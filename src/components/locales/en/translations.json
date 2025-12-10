@@ -272,28 +272,28 @@
     "gallery": {
         "items": [
             {
-                "src": "/images/galerie/joie.jpg",
-                "alt": "Constitutive assembly of UPP",
+                "src": "/images/galerie2/32.jpg",
+                "alt": "Assemblée constitutive de l'UPP",
                 "caption": "",
                 "height": "16rem"
             },
             {
                 "src": "/images/galerie/coco.jpg",
-                "alt": "Citizen consultation",
-                "caption": "Citizen consultation",
+                "alt": "Consultation citoyenne",
+                "caption": "Consultation citoyenne",
                 "height": "12rem",
                 "mt": "mt-8"
             },
             {
-                "src": "/images/galerie/ate.jpg",
-                "alt": "Co-construction workshop",
-                "caption": "Co-construction workshop",
+                "src": "/images/galerie2/9.jpg",
+                "alt": "Atelier de co-construction",
+                "caption": "Atelier de co-construction",
                 "height": "12rem"
             },
             {
                 "src": "/About/publique.png",
-                "alt": "National forum of UPP",
-                "caption": "National forum",
+                "alt": "Forum national de l'UPP",
+                "caption": "Forum national",
                 "height": "16rem"
             }
         ]
@@ -560,7 +560,7 @@
             "phoneDetails1": "+237 673 712 522 / +237 694 25 83 89",
             "phoneDetails2": "Mon - Fri: 8am - 6pm",
             "emailTitle": "Email",
-            "emailDetails": "info@upp.cm"
+            "emailDetails": "info@upp-ppu.cm"
         },
         "form": {
             "title": "Send us a message",
@@ -568,7 +568,7 @@
             "nom": "Full Name",
             "nomPlaceholder": "Your full name",
             "email": "Email",
-            "emailPlaceholder": "your@email.com",
+            "emailPlaceholder": "info@upp-ppu.cm",
             "telephone": "Phone",
             "telephonePlaceholder": "+237 6XX XX XX XX",
             "sujet": "Subject",

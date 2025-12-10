@@ -131,7 +131,7 @@ const Navigation = () => {
       child: programCategories,
       modal: false
     },
-    { label: t("nav.documents", "Documents"), href: "#", child: pdfOptions, modal: false, isPdf: true },
+    { label: t("nav.documents", "Documents"), href: "#", child: pdfOptions, modal: true, isPdf: true },
     { label: t("nav.projet", "Projet politique"), href: "/projets-politique", child: [], modal: false },
     { label: t("nav.vision", "Vision politique"), href: "/vision-politique", child: [], modal: false },
     { label: t("nav.galerie", "Galerie"), href: "/galerie", child: [], modal: false },

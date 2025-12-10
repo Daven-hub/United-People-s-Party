@@ -20,6 +20,7 @@ const GalleryPage = () => {
         visible: { opacity: 1 },
     };
 
+
     const selectedItem = selectedMedia !== null
         ? galleryData.media.find(item => item.id === selectedMedia)
         : null;

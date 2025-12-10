@@ -169,7 +169,7 @@ export const ProjetPolitiquePage = () => {
                     <div className="flex flex-col lg:flex-row gap-12 items-center">
                         <motion.div className="w-full lg:w-1/2">
                             <div className="relative overflow-hidden shadow-2xl border border-gray-200">
-                                <img src="/images/galerie/impact.jpg" alt="impact" className="w-full h-auto object-cover" />
+                                <img src="/images/galerie2/19.jpg" alt="impact" className="w-full h-auto object-cover" />
                             </div>
                         </motion.div>
 

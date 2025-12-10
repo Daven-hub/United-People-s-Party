@@ -272,7 +272,7 @@
     "gallery": {
         "items": [
             {
-                "src": "/images/galerie/joie.jpg",
+                "src": "/images/galerie2/32.jpg",
                 "alt": "Assemblée constitutive de l'UPP",
                 "caption": "",
                 "height": "16rem"
@@ -285,7 +285,7 @@
                 "mt": "mt-8"
             },
             {
-                "src": "/images/galerie/ate.jpg",
+                "src": "/images/galerie2/9.jpg",
                 "alt": "Atelier de co-construction",
                 "caption": "Atelier de co-construction",
                 "height": "12rem"
@@ -560,7 +560,7 @@
             "phoneDetails1": "+237 673 712 522 / +237 694 25 83 89",
             "phoneDetails2": "Lun - Ven : 8h - 18h",
             "emailTitle": "Email",
-            "emailDetails": "info@upp.cm"
+            "emailDetails": "info@upp-ppu.cm"
         },
         "form": {
             "title": "Envoyez-nous un message",
@@ -568,7 +568,7 @@
             "nom": "Nom complet",
             "nomPlaceholder": "Votre nom et prénom",
             "email": "Email",
-            "emailPlaceholder": "votre@email.com",
+            "emailPlaceholder": "info@upp-ppu.cm",
             "telephone": "Téléphone",
             "telephonePlaceholder": "+237 6XX XX XX XX",
             "sujet": "Sujet",

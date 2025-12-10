@@ -93,7 +93,7 @@ const PrivacyPolicyModal: React.FC<PrivacyPolicyModalProps> = ({
             <p>
               {t("privacy.section4Text")}
               <br />
-              <span className="font-medium">Email : info@cng-ngc.org</span>
+              <span className="font-medium">Email : info@upp-ppu.cm</span>
             </p>
           </div>
 

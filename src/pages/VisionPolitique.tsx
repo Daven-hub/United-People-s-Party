@@ -83,7 +83,7 @@ export default function VisionPage() {
 
             <div className="md:w-1/3 w-full mt-12 md:mt-0">
               <motion.img
-                src="/images/galerie/vision.jpg"
+                src="/images/galerie2/24.jpg"
                 alt={t("heroVision.imageAlt")}
                 className="w-full h-auto object-cover border-4 border-white border-t-primary border-b-secondary border-r-accent shadow-lg"
                 initial="hidden"
@@ -515,10 +515,10 @@ export const NewPoliticsSection = () => {
 
               <div
                 className={`px-4 py-2 rounded-full text-sm font-medium ${index === 0
-                    ? "bg-gray-100 text-gray-700"
-                    : index === 1
-                      ? "bg-primary/10 text-primary"
-                      : "bg-secondary text-primary"
+                  ? "bg-gray-100 text-gray-700"
+                  : index === 1
+                    ? "bg-primary/10 text-primary"
+                    : "bg-secondary text-primary"
                   }`}
               >
                 {column.stats}

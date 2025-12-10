@@ -139,7 +139,7 @@ const Footer: React.FC = () => {
                 </div>
                 <div>
                   <div className="font-medium text-primary-foreground">
-                    info@upp.cm
+                    info@upp-ppu.cm
                   </div>
                   <div className="text-primary-foreground/80 text-sm">
                     {t("footer.emailOfficial")}

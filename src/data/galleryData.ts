@@ -1,4 +1,4 @@
-export  const galleryData = {
+export const galleryData = {
     categories: [
         { id: 'toutes', name: 'Tous les médias' },
         { id: 'manifestations', name: 'Grands Rassemblements' },
@@ -7,83 +7,118 @@ export  const galleryData = {
         { id: 'dirigeants', name: 'Notre Leadership' },
         { id: 'campagnes', name: 'Campagnes Électorales' },
     ],
+
     media: [
+        { id: 1, type: 'image', src: '/images/galerie2/1.jpg' },
+        { id: 2, type: 'image', src: '/images/galerie2/2.jpg' },
+        { id: 3, type: 'image', src: '/images/galerie2/3.jpg' },
+        { id: 4, type: 'image', src: '/images/galerie2/4.jpg' },
+        { id: 5, type: 'image', src: '/images/galerie2/5.jpg' },
+        { id: 6, type: 'image', src: '/images/galerie2/6.jpg' },
+        { id: 7, type: 'image', src: '/images/galerie2/7.jpg' },
+        { id: 8, type: 'image', src: '/images/galerie2/8.jpg' },
+        { id: 9, type: 'image', src: '/images/galerie2/9.jpg' },
+        { id: 10, type: 'image', src: '/images/galerie2/10.jpg' },
+        { id: 11, type: 'image', src: '/images/galerie2/11.jpg' },
+        { id: 12, type: 'image', src: '/images/galerie2/12.jpg' },
+        { id: 13, type: 'image', src: '/images/galerie2/13.jpg' },
+        { id: 14, type: 'image', src: '/images/galerie2/14.jpg' },
+        { id: 15, type: 'image', src: '/images/galerie2/15.jpg' },
+        { id: 16, type: 'image', src: '/images/galerie2/16.jpg' },
+        { id: 17, type: 'image', src: '/images/galerie2/17.jpg' },
+        { id: 18, type: 'image', src: '/images/galerie2/18.jpg' },
+        { id: 19, type: 'image', src: '/images/galerie2/19.jpg' },
+        { id: 20, type: 'image', src: '/images/galerie2/20.jpg' },
+        { id: 21, type: 'image', src: '/images/galerie2/21.jpg' },
+        { id: 22, type: 'image', src: '/images/galerie2/22.jpg' },
+        { id: 23, type: 'image', src: '/images/galerie2/23.jpg' },
+        { id: 24, type: 'image', src: '/images/galerie2/24.jpg' },
+        { id: 25, type: 'image', src: '/images/galerie2/25.jpg' },
+        { id: 26, type: 'image', src: '/images/galerie2/26.jpg' },
+        { id: 27, type: 'image', src: '/images/galerie2/27.jpg' },
+        { id: 28, type: 'image', src: '/images/galerie2/28.jpg' },
+        { id: 29, type: 'image', src: '/images/galerie2/29.jpg' },
+        { id: 30, type: 'image', src: '/images/galerie2/30.jpg' },
+        { id: 31, type: 'image', src: '/images/galerie2/31.jpg' },
+        { id: 32, type: 'image', src: '/images/galerie2/32.jpg' },
+        { id: 33, type: 'image', src: '/images/galerie2/33.jpg' },
+        { id: 34, type: 'image', src: '/images/galerie2/34.jpg' },
         {
-            id: 1,
+            id: 35,
             type: 'image',
             src: '/images/galerie/oneking.jpg',
         },
         {
-            id: 2,
+            id: 36,
             type: 'video',
             src: '/images/galerie/vid.mp4',
             poster: '/images/galerie/imageVid.png',
             alt: 'Rencontre avec les CVUC (Commune et Vie Unie du Cameroun)',
         },
         {
-            id: 3,
+            id: 37,
             type: 'image',
             src: '/images/galerie/isps.jpg',
             alt: 'Avec le PDG de solution ISPS, qui a signé un accord de partenariat avec le ministère du transport du Cameroun grâce au Dr NGAKETCHA',
             description: 'Avec le PDG de solution ISPS, qui a signé un accord de partenariat avec le ministère du transport du Cameroun grâce au Dr NGAKETCHA',
         },
         {
-            id: 4,
+            id: 38,
             type: 'image',
             src: '/images/galerie/fdc.jpg',
-            alt: 'Investiture du candidat du FDC à l’élection présidentielle 2025',
-            description: 'Investiture du candidat du FDC à l’élection présidentielle 2025',
+            alt: "Investiture du candidat du FDC à l'élection présidentielle 2025",
+            description: "Investiture du candidat du FDC à l'élection présidentielle 2025",
         },
         {
-            id: 5,
+            id: 39,
             type: 'image',
             src: '/images/galerie/ate.jpg',
             alt: "L'or d'une mission économique avec les entrepreneurs francophone au canada ",
             categories: ['dirigeants'],
         },
         {
-            id: 6,
+            id: 40,
             type: 'image',
             src: '/images/galerie/atelier.jpg',
             alt: "Remise du prix étoile d'or de la diaspora Camerounaise",
         },
         {
-            id: 7,
+            id: 41,
             type: 'image',
             src: '/images/galerie/assemble.jpg',
             alt: "Présentation d'Opportunités avec la Mairie de Douala 5em",
         },
         {
-            id: 8,
+            id: 42,
             type: 'image',
             src: '/images/galerie/news.jpg',
             alt: "THE 10 MOST INFLUENTIAL BLACK CORPORATE LEADERS TO WATCH OUT IN 2024 ",
         },
         {
-            id: 9,
+            id: 43,
             type: 'image',
             src: '/images/galerie/emmergence.jpg',
         },
         {
-            id: 10,
+            id: 44,
             type: 'image',
             src: '/images/galerie/raouls.jpg',
             // poster: '/images/gallery/ang-formation-thumb.jpg',
-            alt: 'Avec le Roi du Maketing de réseau au Cameroun, Dr. Raoul Ruben Djionou.',
+            alt: 'Avec le Roi du Maketing de réseau au Cameroun, Dr. Raoul Ruben Djionou.',
             // categories: ['projets'],
             // date: '18 Août 2023',
             // location: 'Labé',
             // duration: '3:15',
-            // description: 'Avec le Roi du Maketing de réseau au Cameroun, Dr. Raoul Ruben Djionou.',
+            // description: 'Avec le Roi du Maketing de réseau au Cameroun, Dr. Raoul Ruben Djionou.',
             // likes: 1324,
             // views: 5234
         },
         {
-            id: 11,
+            id: 45,
             type: 'image',
             src: '/images/galerie/raoul.jpg',
             // poster: '/images/gallery/ang-formation-thumb.jpg',
-            alt: "Avec l’ex président d’Afrique du Sud Jacob Zuma",
+            alt: "Avec l'ex président d'Afrique du Sud Jacob Zuma",
             // categories: ['projets'],
             // date: '18 Août 2023',
             // location: 'Labé',
@@ -93,7 +128,7 @@ export  const galleryData = {
             // views: 5234
         },
         {
-            id: 12,
+            id: 46,
             type: 'image',
             src: '/images/galerie/imageSalt2.jpg',
             // poster: '/images/gallery/ang-formation-thumb.jpg',
@@ -106,8 +141,8 @@ export  const galleryData = {
             // likes: 1324,
             // views: 5234
         },
-         {
-            id: 13,
+        {
+            id: 47,
             type: 'image',
             src: '/images/galerie/salut.jpg',
             // poster: '/images/gallery/ang-formation-thumb.jpg',
@@ -121,7 +156,7 @@ export  const galleryData = {
             // views: 5234
         },
         {
-            id: 14,
+            id: 48,
             type: 'image',
             src: '/images/galerie/conferance.jpg',
             // poster: '/images/gallery/ang-formation-thumb.jpg',
@@ -135,7 +170,7 @@ export  const galleryData = {
             // views: 5234
         },
         {
-            id: 15,
+            id: 49,
             type: 'image',
             src: '/images/galerie/medaille.jpg',
             // poster: '/images/gallery/ang-formation-thumb.jpg',
@@ -149,7 +184,7 @@ export  const galleryData = {
             // views: 5234
         },
         {
-            id: 16,
+            id: 50,
             type: 'image',
             src: '/images/galerie/conferance2.jpg',
             // poster: '/images/gallery/ang-formation-thumb.jpg',
@@ -163,7 +198,7 @@ export  const galleryData = {
             // views: 5234
         },
         {
-            id: 17,
+            id: 51,
             type: 'image',
             src: '/images/galerie/ref.jpg',
             // poster: '/images/gallery/ang-formation-thumb.jpg',
@@ -177,7 +212,7 @@ export  const galleryData = {
             // views: 5234
         },
         {
-            id: 18,
+            id: 52,
             type: 'image',
             src: '/images/galerie/img1.jpg',
             // poster: '/images/gallery/ang-formation-thumb.jpg',
@@ -191,7 +226,7 @@ export  const galleryData = {
             // views: 5234
         },
         {
-            id: 19,
+            id: 53,
             type: 'image',
             src: '/images/galerie/img2.jpg',
             // poster: '/images/gallery/ang-formation-thumb.jpg',
@@ -205,7 +240,7 @@ export  const galleryData = {
             // views: 5234
         },
         {
-            id: 20,
+            id: 54,
             type: 'image',
             src: '/images/galerie/img3.jpg',
             // poster: '/images/gallery/ang-formation-thumb.jpg',
@@ -219,11 +254,11 @@ export  const galleryData = {
             // views: 5234
         },
         {
-            id: 21,
+            id: 55,
             type: 'image',
             src: '/images/galerie/img4.jpg',
             // poster: '/images/gallery/ang-formation-thumb.jpg',
-            // alt: 'Avec le Roi du Maketing de réseau au Cameroun, Dr. Raoul Ruben Djionou.',
+            // alt: 'Avec le Roi du Maketing de réseau au Cameroun, Dr. Raoul Ruben Djionou.',
             // categories: ['projets'],
             // date: '18 Août 2023',
             // location: 'Labé',
@@ -233,11 +268,11 @@ export  const galleryData = {
             // views: 5234
         },
         {
-            id: 22,
+            id: 56,
             type: 'image',
             src: '/images/galerie/img5.jpg',
             // poster: '/images/gallery/ang-formation-thumb.jpg',
-            // alt: 'Avec le Roi du Maketing de réseau au Cameroun, Dr. Raoul Ruben Djionou.',
+            // alt: 'Avec le Roi du Maketing de réseau au Cameroun, Dr. Raoul Ruben Djionou.',
             // categories: ['projets'],
             // date: '18 Août 2023',
             // location: 'Labé',
@@ -247,11 +282,11 @@ export  const galleryData = {
             // views: 5234
         },
         {
-            id: 23,
+            id: 57,
             type: 'image',
             src: '/images/galerie/img6.jpg',
             // poster: '/images/gallery/ang-formation-thumb.jpg',
-            // alt: 'Avec le Roi du Maketing de réseau au Cameroun, Dr. Raoul Ruben Djionou.',
+            // alt: 'Avec le Roi du Maketing de réseau au Cameroun, Dr. Raoul Ruben Djionou.',
             // categories: ['projets'],
             // date: '18 Août 2023',
             // location: 'Labé',
@@ -261,7 +296,7 @@ export  const galleryData = {
             // views: 5234
         },
         {
-            id: 24,
+            id: 58,
             type: 'image',
             src: '/images/galerie/img7.jpg',
             // poster: '/images/gallery/ang-formation-thumb.jpg',
@@ -275,11 +310,11 @@ export  const galleryData = {
             // views: 5234
         },
         {
-            id: 25,
+            id: 59,
             type: 'image',
             src: '/images/galerie/img8.jpg',
             // poster: '/images/gallery/ang-formation-thumb.jpg',
-            // alt: 'Avec le Roi du Maketing de réseau au Cameroun, Dr. Raoul Ruben Djionou.',
+            // alt: 'Avec le Roi du Maketing de réseau au Cameroun, Dr. Raoul Ruben Djionou.',
             // categories: ['projets'],
             // date: '18 Août 2023',
             // location: 'Labé',
@@ -289,11 +324,11 @@ export  const galleryData = {
             // views: 5234
         },
         {
-            id: 26,
+            id: 60,
             type: 'image',
             src: '/images/galerie/ANG.jpg',
             // poster: '/images/gallery/ang-formation-thumb.jpg',
-            // alt: 'Avec le Roi du Maketing de réseau au Cameroun, Dr. Raoul Ruben Djionou.',
+            // alt: 'Avec le Roi du Maketing de réseau au Cameroun, Dr. Raoul Ruben Djionou.',
             // categories: ['projets'],
             // date: '18 Août 2023',
             // location: 'Labé',
@@ -303,7 +338,7 @@ export  const galleryData = {
             // views: 5234
         },
         {
-            id: 27,
+            id: 61,
             type: 'image',
             src: '/images/galerie/img9.jpg',
             // poster: '/images/gallery/ang-formation-thumb.jpg',
@@ -317,7 +352,7 @@ export  const galleryData = {
             // views: 5234
         },
         {
-            id: 28,
+            id: 62,
             type: 'image',
             src: '/images/galerie/img10.jpg',
             // poster: '/images/gallery/ang-formation-thumb.jpg',
@@ -331,7 +366,7 @@ export  const galleryData = {
             // views: 5234
         },
         {
-            id: 29,
+            id: 63,
             type: 'image',
             src: '/images/galerie/img11.jpg',
             // poster: '/images/gallery/ang-formation-thumb.jpg',
@@ -345,7 +380,7 @@ export  const galleryData = {
             // views: 5234
         },
         {
-            id: 30,
+            id: 64,
             type: 'image',
             src: '/images/galerie/img12.jpg',
             // poster: '/images/gallery/ang-formation-thumb.jpg',
@@ -359,7 +394,7 @@ export  const galleryData = {
             // views: 5234
         },
         {
-            id: 31,
+            id: 65,
             type: 'image',
             src: '/images/galerie/img13.jpg',
             // poster: '/images/gallery/ang-formation-thumb.jpg',
@@ -373,7 +408,7 @@ export  const galleryData = {
             // views: 5234
         },
         {
-            id: 32,
+            id: 66,
             type: 'image',
             src: '/images/galerie/img14.jpg',
             // poster: '/images/gallery/ang-formation-thumb.jpg',
@@ -387,11 +422,11 @@ export  const galleryData = {
             // views: 5234
         },
         {
-            id: 33,
+            id: 67,
             type: 'image',
             src: '/images/galerie/img15.jpg',
             // poster: '/images/gallery/ang-formation-thumb.jpg',
-            // alt: 'Avec le Roi du Maketing de réseau au Cameroun, Dr. Raoul Ruben Djionou.',
+            // alt: 'Avec le Roi du Maketing de réseau au Cameroun, Dr. Raoul Ruben Djionou.',
             // categories: ['projets'],
             // date: '18 Août 2023',
             // location: 'Labé',
@@ -401,11 +436,11 @@ export  const galleryData = {
             // views: 5234
         },
         {
-            id: 34,
+            id: 68,
             type: 'image',
             src: '/images/galerie/img16.jpg',
             // poster: '/images/gallery/ang-formation-thumb.jpg',
-            // alt: 'Avec le Roi du Maketing de réseau au Cameroun, Dr. Raoul Ruben Djionou.',
+            // alt: 'Avec le Roi du Maketing de réseau au Cameroun, Dr. Raoul Ruben Djionou.',
             // categories: ['projets'],
             // date: '18 Août 2023',
             // location: 'Labé',
@@ -415,7 +450,7 @@ export  const galleryData = {
             // views: 5234
         },
         {
-            id: 35,
+            id: 69,
             type: 'image',
             src: '/images/galerie/img17.jpg',
             // poster: '/images/gallery/ang-formation-thumb.jpg',
@@ -429,7 +464,7 @@ export  const galleryData = {
             // views: 5234
         },
         {
-            id: 36,
+            id: 70,
             type: 'image',
             src: '/images/galerie/img18.jpg',
             // poster: '/images/gallery/ang-formation-thumb.jpg',
@@ -443,11 +478,11 @@ export  const galleryData = {
             // views: 5234
         },
         {
-            id: 37,
+            id: 71,
             type: 'image',
             src: '/images/galerie/img19.jpg',
             // poster: '/images/gallery/ang-formation-thumb.jpg',
-            // alt: 'Avec le Roi du Maketing de réseau au Cameroun, Dr. Raoul Ruben Djionou.',
+            // alt: 'Avec le Roi du Maketing de réseau au Cameroun, Dr. Raoul Ruben Djionou.',
             // categories: ['projets'],
             // date: '18 Août 2023',
             // location: 'Labé',
@@ -457,7 +492,7 @@ export  const galleryData = {
             // views: 5234
         },
         {
-            id: 38,
+            id: 72,
             type: 'image',
             src: '/images/galerie/img20.jpg',
             // poster: '/images/gallery/ang-formation-thumb.jpg',
@@ -471,7 +506,7 @@ export  const galleryData = {
             // views: 5234
         },
         {
-            id: 39,
+            id: 73,
             type: 'image',
             src: '/images/galerie/img21.jpg',
             // poster: '/images/gallery/ang-formation-thumb.jpg',
@@ -485,11 +520,11 @@ export  const galleryData = {
             // views: 5234
         },
         {
-            id: 40,
+            id: 74,
             type: 'image',
             src: '/images/galerie/img22.jpg',
             // poster: '/images/gallery/ang-formation-thumb.jpg',
-            alt:"Délégation de jeunes Entrepreneurs en visite au Cameroun (Terrific Coffee)",
+            alt: "Délégation de jeunes Entrepreneurs en visite au Cameroun (Terrific Coffee)",
             // categories: ['projets'],
             // date: '18 Août 2023',
             // location: 'Labé',
@@ -499,7 +534,7 @@ export  const galleryData = {
             // views: 5234
         },
         {
-            id: 41,
+            id: 75,
             type: 'image',
             src: '/images/galerie/img23.jpg',
             // poster: '/images/gallery/ang-formation-thumb.jpg',
@@ -513,11 +548,11 @@ export  const galleryData = {
             // views: 5234
         },
         {
-            id: 42,
+            id: 76,
             type: 'image',
             src: '/images/galerie/img24.jpg',
             // poster: '/images/gallery/ang-formation-thumb.jpg',
-            // alt: 'Avec le Roi du Maketing de réseau au Cameroun, Dr. Raoul Ruben Djionou.',
+            // alt: 'Avec le Roi du Maketing de réseau au Cameroun, Dr. Raoul Ruben Djionou.',
             // categories: ['projets'],
             // date: '18 Août 2023',
             // location: 'Labé',
@@ -527,11 +562,11 @@ export  const galleryData = {
             // views: 5234
         },
         {
-            id: 43,
+            id: 77,
             type: 'image',
             src: '/images/galerie/img25.jpg',
             // poster: '/images/gallery/ang-formation-thumb.jpg',
-            // alt: 'Avec le Roi du Maketing de réseau au Cameroun, Dr. Raoul Ruben Djionou.',
+            // alt: 'Avec le Roi du Maketing de réseau au Cameroun, Dr. Raoul Ruben Djionou.',
             // categories: ['projets'],
             // date: '18 Août 2023',
             // location: 'Labé',
@@ -541,11 +576,11 @@ export  const galleryData = {
             // views: 5234
         },
         {
-            id: 44,
+            id: 78,
             type: 'image',
             src: '/images/galerie/img26.jpg',
             // poster: '/images/gallery/ang-formation-thumb.jpg',
-            // alt: 'Avec le Roi du Maketing de réseau au Cameroun, Dr. Raoul Ruben Djionou.',
+            // alt: 'Avec le Roi du Maketing de réseau au Cameroun, Dr. Raoul Ruben Djionou.',
             // categories: ['projets'],
             // date: '18 Août 2023',
             // location: 'Labé',
@@ -555,7 +590,7 @@ export  const galleryData = {
             // views: 5234
         },
         {
-            id: 45,
+            id: 79,
             type: 'image',
             src: '/images/galerie/img27.jpg',
             // poster: '/images/gallery/ang-formation-thumb.jpg',
@@ -569,11 +604,11 @@ export  const galleryData = {
             // views: 5234
         },
         {
-            id: 46,
+            id: 80,
             type: 'image',
             src: '/images/galerie/img28.jpg',
             // poster: '/images/gallery/ang-formation-thumb.jpg',
-            // alt: 'Avec le Roi du Maketing de réseau au Cameroun, Dr. Raoul Ruben Djionou.',
+            // alt: 'Avec le Roi du Maketing de réseau au Cameroun, Dr. Raoul Ruben Djionou.',
             // categories: ['projets'],
             // date: '18 Août 2023',
             // location: 'Labé',
@@ -583,7 +618,7 @@ export  const galleryData = {
             // views: 5234
         },
         {
-            id: 47,
+            id: 81,
             type: 'image',
             src: '/images/galerie/coco.jpg',
             // poster: '/images/gallery/ang-formation-thumb.jpg',
@@ -597,11 +632,11 @@ export  const galleryData = {
             // views: 5234
         },
         {
-            id: 48,
+            id: 82,
             type: 'image',
             src: '/images/galerie/img30.jpg',
             // poster: '/images/gallery/ang-formation-thumb.jpg',
-            // alt: 'Avec le Roi du Maketing de réseau au Cameroun, Dr. Raoul Ruben Djionou.',
+            // alt: 'Avec le Roi du Maketing de réseau au Cameroun, Dr. Raoul Ruben Djionou.',
             // categories: ['projets'],
             // date: '18 Août 2023',
             // location: 'Labé',
@@ -611,11 +646,11 @@ export  const galleryData = {
             // views: 5234
         },
         {
-            id: 49,
+            id: 83,
             type: 'image',
             src: '/images/galerie/vision.jpg',
             // poster: '/images/gallery/ang-formation-thumb.jpg',
-            // alt: 'Avec le Roi du Maketing de réseau au Cameroun, Dr. Raoul Ruben Djionou.',
+            // alt: 'Avec le Roi du Maketing de réseau au Cameroun, Dr. Raoul Ruben Djionou.',
             // categories: ['projets'],
             // date: '18 Août 2023',
             // location: 'Labé',
@@ -625,11 +660,11 @@ export  const galleryData = {
             // views: 5234
         },
         {
-            id: 50,
+            id: 84,
             type: 'image',
             src: '/images/galerie/impact.jpg',
             // poster: '/images/gallery/ang-formation-thumb.jpg',
-            // alt: 'Avec le Roi du Maketing de réseau au Cameroun, Dr. Raoul Ruben Djionou.',
+            // alt: 'Avec le Roi du Maketing de réseau au Cameroun, Dr. Raoul Ruben Djionou.',
             // categories: ['projets'],
             // date: '18 Août 2023',
             // location: 'Labé',
@@ -638,8 +673,5 @@ export  const galleryData = {
             // likes: 1324,
             // views: 5234
         },
-        
-        
-
     ]
 };

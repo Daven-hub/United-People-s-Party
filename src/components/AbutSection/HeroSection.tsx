@@ -13,7 +13,7 @@ const HeroSection = () => {
             <div className="hidden md:block absolute right-0 top-0 bottom-0 w-1/2 z-0 overflow-hidden h-full">
                 <div className="w-full h-full relative overflow-hidden">
                     <img
-                        src="/images/galerie/propo.jpg"
+                        src="/images/galerie2/28.jpg"
                         alt={t("heros.intro1")}
                         className="w-full h-full object-cover object-left transform scale-100 hover:scale-105 transition-transform duration-500 ease-in-out"
                     />
@@ -24,7 +24,7 @@ const HeroSection = () => {
             <div className="md:hidden absolute inset-0 z-0 overflow-hidden w-full h-full">
                 <div className="w-full h-full relative">
                     <img
-                        src="/images/galerie/propo.jpg"
+                        src="/images/galerie2/30.jpg"
                         alt={t("heros.intro1")}
                         className="w-full h-full object-cover opacity-80 transform scale-100 hover:scale-105 transition-transform duration-500 ease-in-out"
                     />

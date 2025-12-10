@@ -20,7 +20,7 @@ const ObjectifsSection: React.FC = () => {
             {/* Image de fond en haut à gauche - discrète */}
             <div className="absolute top-0 right-0 w-full max-w-2xl opacity-10 z-0">
                 <img
-                    src="/About/monumentOne.png"
+                    src="/images/galerie2/30.jpg"
                     alt="Décoration"
                     className="w-full h-auto object-contain object-left-top"
                 />
@@ -58,7 +58,7 @@ const ObjectifsSection: React.FC = () => {
                     <div className="lg:w-1/2 w-full">
                         <div className="relative overflow-hidden aspect-video shadow-lg">
                             <img
-                                src="/images/galerie/jeune.jpg"
+                                src="/images/galerie2/25.jpg"
                                 alt={t("objectifs.imageAlt")}
                                 className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
                             />

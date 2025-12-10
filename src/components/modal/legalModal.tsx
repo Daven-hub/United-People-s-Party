@@ -31,7 +31,7 @@ const LegalModal: React.FC<LegalModalProps> = ({ isOpen, onClose }) => {
             <strong>{t("legal.siteName")} :</strong> {t("legal.siteValue")}
           </p>
           <p className="mb-1">
-            <strong>{t("legal.url")} :</strong> www.cng-ngc.org
+            <strong>{t("legal.url")} :</strong> www.upp-ppu.cm
           </p>
           <p className="mb-1">
             <strong>{t("legal.editor")} :</strong> Franchise IT
@@ -40,7 +40,7 @@ const LegalModal: React.FC<LegalModalProps> = ({ isOpen, onClose }) => {
             <strong>{t("legal.address")} :</strong> Douala, Cameroun
           </p>
           <p className="mb-1">
-            <strong>{t("legal.email")} :</strong> info@cng-ngc.org
+            <strong>{t("legal.email")} :</strong> info@upp-ppu.cm
           </p>
           <p className="mb-1">
             <strong>{t("legal.phone")} :</strong> +237 6 95 43 27 99

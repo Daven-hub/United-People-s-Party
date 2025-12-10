@@ -39,7 +39,7 @@ const Index = () => {
       <section className="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-10 bg-primary/5 px-[6.5%] py-16 md:py-20">
         <div className="relative w-full h-[250px] rounded-[5px] overflow-hidden md:h-full">
           <img
-            src="/images/galerie/ate.jpg"
+            src="/images/galerie2/27.jpg"
             alt={t("index.aboutImgAlt")}
             className="absolute w-full h-full object-cover"
           />
@@ -94,7 +94,7 @@ const Index = () => {
       <section className="bg-muted/30 grid grid-cols-1 md:grid-cols-2 relative overflow-hidden">
         <div className="relative h-[350px] md:h-full w-full overflow-hidden shadow-glow">
           <img
-            src="/images/galerie/emmergence.jpg"
+            src="/images/galerie2/23.jpg"
             alt={t("index.visionImgAlt")}
             className="w-full absolute h-full object-cover"
             style={{ animationDelay: "0.8s" }}
