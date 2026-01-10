@@ -13,7 +13,7 @@ import { useTranslation } from "react-i18next";
 
 // Configuration API
 const apiClient = axios.create({
-  baseURL: "https://api.ang-agc.org",
+  baseURL: "https://foc-cof.ca",
   headers: {
     "Content-Type": "application/json",
   },
@@ -37,7 +37,7 @@ export interface ApiResponse {
 // Service de contacts
 export const contactsService = async (formData: ContactFormData): Promise<ApiResponse> => {
   try {
-    const response = await apiClient.post("/api/membership/apply", formData);
+    const response = await apiClient.post("/api/contact", formData);
     return {
       status: "success",
       message: response.data.message || "Demande envoyée avec succès!",

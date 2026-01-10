@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const apiClient = axios.create({
-    baseURL: 'https://api.ang-agc.org',
+    baseURL: 'https://foc-cof.ca',
     headers: {
         'Content-Type': 'application/json',
     },
@@ -32,7 +32,7 @@ export interface ApiResponse {
 
 export const RejoindreService = async (formData: RejoindreFormData): Promise<ApiResponse> => {
     try {
-        const response = await apiClient.post('/api/membership/apply', formData);
+        const response = await apiClient.post('/api/adhesion', formData);
 
         return {
             status: 'success',
