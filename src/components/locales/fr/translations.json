@@ -11,6 +11,19 @@
         "contact": "Contact",
         "rejoindre": "Nous rejoindre"
     },
+    "actualite": {
+        "date": "Dimanche 18 janvier 2026",
+        "badge": "Actualité",
+        "title": "Mobilisation citoyenne dans le Wouri",
+        "subtitle": "L’UPP sur le terrain pour le changement",
+        "description": "Ce dimanche 18 janvier 2026, l’United People’s Party (UPP) s’est déployé sur le terrain dans le département du Wouri pour une vaste opération de sensibilisation et de mobilisation citoyenne.",
+        "candidature": "À cette occasion, le Dr Armand Ngaketcha a officiellement annoncé sa candidature aux prochaines élections législatives dans le Wouri, affirmant la volonté de l’UPP de proposer une alternative politique crédible, proche du peuple et résolument tournée vers le changement.",
+        "highlights": {
+            "politicalStatement": "Une déclaration politique forte",
+            "fieldPresence": "Une présence de terrain assumée",
+            "newDynamic": "Le début d’une nouvelle dynamique dans le Wouri"
+        }
+    },
     "documents": {
         "programme": "Programme Politique",
         "statut": "Statut",

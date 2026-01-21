@@ -10,6 +10,7 @@ import { Flag, Globe, Target, Users } from "lucide-react";
 import { motion } from "framer-motion";
 import StatsSection from "@/components/stats";
 import { useTranslation } from "react-i18next";
+import ActualiteSection from "@/components/ActualiteSection";
 
 const Index = () => {
   const { t } = useTranslation();
@@ -35,6 +36,8 @@ const Index = () => {
       <div id="accueil">
         <Hero />
       </div>
+
+      <ActualiteSection />
 
       <section className="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-10 bg-primary/5 px-[6.5%] py-16 md:py-20">
         <div className="relative w-full h-[250px] rounded-[5px] overflow-hidden md:h-full">
