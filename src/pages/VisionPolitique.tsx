@@ -2,10 +2,11 @@ import Footer from "@/components/Footer";
 import Navigation from "@/components/Navigation";
 import { Button } from "@/components/ui/button";
 import { Globe, Heart, Lightbulb, Quote, ArrowRight, BarChart2, Users, Flag, BookOpen, Shield, FileText, UserPlus, RefreshCw, TrendingUp, Clock, Download } from "lucide-react";
-import React from "react";
+import React, { useState } from "react";
 import { motion } from "framer-motion";
 import { values } from "@/components/valeurs";
 import { useTranslation } from "react-i18next";
+import RejoindreModal from "@/components/RejoindreModal";
 
 export default function VisionPage() {
   // Animations simplifiées
@@ -20,6 +21,7 @@ export default function VisionPage() {
   };
 
   const { t } = useTranslation();
+  const [isModalOpen, setIsModalOpen] = useState(false);
 
   return (
     <div className="min-h-screen flex flex-col bg-white">
@@ -64,10 +66,10 @@ export default function VisionPage() {
                   className="bg-secondary hover:bg-secondary-dark text-secondary-foreground font-bold px-8 py-6 text-lg"
                   asChild
                 >
-                  <a href="/rejoindre">
+                  <button onClick={() => setIsModalOpen(true)}>
                     {t("heroVision.join")}
                     <ArrowRight className="ml-2 w-7 h-7" />
-                  </a>
+                  </button>
                 </Button>
 
                 <Button
@@ -413,7 +415,7 @@ export default function VisionPage() {
               viewport={{ once: true }}
               transition={{ delay: 0.3 }}
             >
-              <Button className="bg-white text-primary hover:bg-gray-100 px-8 py-4 font-bold shadow-lg">
+              <Button onClick={() => setIsModalOpen(true)} className="bg-white text-primary hover:bg-gray-100 px-8 py-4 font-bold shadow-lg">
                 {t("cta.buttons.join")}
               </Button>
               <Button variant="outline" className="text-primary border-white px-8 py-4 shadow-lg">
@@ -428,6 +430,7 @@ export default function VisionPage() {
       </section>
 
       <Footer />
+      <RejoindreModal isOpen={isModalOpen} onClose={() => setIsModalOpen(false)} />
     </div>
   );
 }
@@ -527,6 +530,8 @@ export const NewPoliticsSection = () => {
           ))}
         </div>
       </div>
+
+      
     </section>
   );
 }

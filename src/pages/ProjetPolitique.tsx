@@ -4,6 +4,8 @@ import { motion } from "framer-motion";
 import { ProjetCard } from "@/components/ProjetCard";
 import Footer from "@/components/Footer";
 import { useTranslation } from "react-i18next";
+import RejoindreModal from "@/components/RejoindreModal";
+import { useState } from "react";
 
 const fadeIn = {
     hidden: { opacity: 0, y: 20 },
@@ -25,6 +27,7 @@ const fadeInItem = {
 
 export const ProjetPolitiquePage = () => {
     const { t } = useTranslation();
+    const [isModalOpen, setIsModalOpen] = useState(false);
 
     const AXES = t("programme.axes", { returnObjects: true }) as {
         title: string;
@@ -211,12 +214,12 @@ export const ProjetPolitiquePage = () => {
                         </motion.p>
 
                         <motion.div className="flex flex-col sm:flex-row gap-4 justify-center">
-                            <a
-                                href="/rejoindre"
+                            <button
+                                onClick={() => setIsModalOpen(true)}
                                 className="bg-white text-primary hover:bg-gray-100 flex items-center justify-center rounded-[10px] font-bold px-8 py-3 transition-all hover:scale-105 shadow-lg"
                             >
                                 {t("programme.ctaJoin")}
-                            </a>
+                            </button>
 
                             <a
                                 href="/contact"
@@ -230,6 +233,7 @@ export const ProjetPolitiquePage = () => {
             </section>
 
             <Footer />
+            <RejoindreModal isOpen={isModalOpen} onClose={() => setIsModalOpen(false)} />
         </div>
     );
 };

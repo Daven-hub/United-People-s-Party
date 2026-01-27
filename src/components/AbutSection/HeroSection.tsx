@@ -1,10 +1,12 @@
 import { ArrowRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { useTranslation } from "react-i18next";
-import React from "react";
+import React, { useState } from "react";
+import RejoindreModal from "../RejoindreModal";
 
 const HeroSection = () => {
     const { t } = useTranslation();
+    const [isModalOpen, setIsModalOpen] = useState(false);
 
     return (
         <section className="relative text-white min-h-[500px] md:min-h-[600px] flex items-center px-4 sm:px-6 py-12 overflow-hidden w-full">
@@ -47,13 +49,13 @@ const HeroSection = () => {
                         </p>
 
                         <div className="flex flex-col sm:flex-row gap-3 md:gap-6 pt-4">
-                            <a
-                                href="/rejoindre"
+                            <button
+                                onClick={() => setIsModalOpen(true)}
                                 className="bg-secondary justify-center flex items-center rounded-[10px] hover:bg-secondary-dark text-secondary-foreground font-bold px-8 py-2.5 text-[.85rem] md:text-[1rem]"
                             >
                                 {t("heros.join_upp")}
                                 <ArrowRight className="ml-2 w-5 h-5" />
-                            </a>
+                            </button>
 
                             <Button
                                 size="lg"
@@ -68,7 +70,8 @@ const HeroSection = () => {
 
                 <div className="hidden md:block w-1/2"></div>
             </div>
-        </section>
+            <RejoindreModal isOpen={isModalOpen} onClose={() => setIsModalOpen(false)} />
+        </section >
     );
 };
 
