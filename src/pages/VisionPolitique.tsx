@@ -531,7 +531,7 @@ export const NewPoliticsSection = () => {
         </div>
       </div>
 
-      
+
     </section>
   );
 }

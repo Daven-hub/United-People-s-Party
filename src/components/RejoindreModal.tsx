@@ -267,7 +267,7 @@ const RejoindreModal = ({ isOpen, onClose }: RejoindreModalProps) => {
                                                         <SelectTrigger>
                                                             <SelectValue placeholder={t("rejoindre.selectRegion")} />
                                                         </SelectTrigger>
-                                                        <SelectContent>
+                                                        <SelectContent translate="no">
                                                             {regions.map((region) => (
                                                                 <SelectItem key={region} value={region}>
                                                                     {region}
