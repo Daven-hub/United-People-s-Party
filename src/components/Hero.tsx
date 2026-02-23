@@ -39,13 +39,14 @@ const Hero = () => {
             <ArrowRight className="ml-2 w-5 h-5" />
           </button>
 
-          <Button
-            size="lg"
-            variant="outline"
-            className="border-2 border-primary-foreground hover:bg-primary-foreground hover:text-secondary-foreground font-semibold text-primary px-8 py-3 md:py-6 text-[.85rem] md:text-[1rem]"
+          <a
+            href="/coming-soon"
+            // size="lg"
+            // variant="outline"
+            className="border-2 border-primary-foreground  bg-white rounded-lg hover:bg-primary-foreground hover:text-secondary-foreground font-semibold text-primary px-8 py-3 md:py-6 text-[.85rem] md:text-[1rem]"
           >
             {t("hero.discover")}
-          </Button>
+          </a>
         </div>
       </div>
 
