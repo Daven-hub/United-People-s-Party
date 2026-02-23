@@ -107,7 +107,7 @@ const VisionSection = () => {
                 {t("vision.callToAction.joinButton")}
               </Button>
             </Link>
-            <Link to={'/contact'}>
+            <Link to={'/coming-soon'}>
               <Button variant="outline" className="text-[.9rem] px-8 py-4">
                 {t("vision.callToAction.discoverButton")}
               </Button>

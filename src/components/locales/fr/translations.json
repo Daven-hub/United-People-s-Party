@@ -1444,5 +1444,50 @@
                 "label": "Couverture santé"
             }
         }
+    },
+    "upp": {
+        "badge": "Programme UPP",
+        "title": "Programme UPP Repreneuriat",
+        "subtitleLong": "Le Programme UPP Repreneuriat accompagne les entrepreneurs et porteurs de projets innovants dans la concrétisation de leurs idées grâce à un accompagnement stratégique, un financement adapté et un réseau d'experts engagés.",
+        "why": "Pourquoi participer ?",
+        "points": [
+            "Soutenez le développement économique et social du pays",
+            "Transformez vos idées en projets concrets et durables",
+            "Accédez à un financement et à un accompagnement stratégique"
+        ],
+        "cards": [
+            {
+                "title": "Innovation & Impact",
+                "desc": "Nous soutenons les projets innovants capables de générer un impact économique et social durable."
+            },
+            {
+                "title": "Accompagnement complet",
+                "desc": "Bénéficiez d'un accompagnement stratégique, technique et financier par des experts."
+            },
+            {
+                "title": "Opportunités de financement",
+                "desc": "Accédez à des programmes de financement adaptés à votre projet entrepreneurial."
+            }
+        ],
+        "processTitle": "Processus de sélection",
+        "process": [
+            "Soumission du projet via le formulaire",
+            "Analyse et évaluation du business plan",
+            "Présentation devant le comité",
+            "Sélection et accompagnement"
+        ],
+        "formTitle": "Formulaire d'inscription",
+        "personal": "Informations personnelles",
+        "project": "Détails du projet",
+        "nom": "Nom",
+        "prenom": "Prénom",
+        "telephone": "Téléphone",
+        "email": "Email",
+        "ville": "Ville",
+        "projectTitle": "Titre du projet",
+        "projectDesc": "Description du projet (objectif, viabilité, impact — max 300 mots)",
+        "upload": "Glissez ou téléchargez votre business plan (PDF ou Word)",
+        "conditions": "Je certifie que les informations sont exactes et j'accepte de participer.",
+        "submit": "Envoyer la candidature"
     }
 }

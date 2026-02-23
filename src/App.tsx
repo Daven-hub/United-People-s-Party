@@ -19,6 +19,7 @@ import PartisPolitique from "./pages/PartisPolitique";
 import DetailPartiPolitique from "./pages/DetailPartiPolitique";
 import BackToTop from "./components/ui/backTop";
 import SlimLanguageSwitcher from "./components/locales/flotSwitcher";
+import ProgrammeUPP from "./pages/ProgrammeRepreneuriat";
 
 
 const queryClient = new QueryClient();
@@ -35,6 +36,7 @@ const App = () => (
           <Route path="/qui-sommes-nous-?" element={<About />} />
           <Route path="/vision-politique" element={<VisionPage />} />
           <Route path="/projets-politique" element={<ProjetPolitiquePage />} />
+          <Route path="/coming-soon" element={<ProgrammeUPP />} />
           <Route path="/programme/">
             <Route index element={<Programme />} />
             <Route path=":id" element={<ProgrammeDetail />} />

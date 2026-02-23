@@ -9,7 +9,7 @@
         "galerie": "Gallery",
         "actualites": "News",
         "contact": "Contact",
-        "rejoindre": "Join Us"     
+        "rejoindre": "Join Us"
     },
     "actualite": {
         "date": "Sunday, January 18, 2026",
@@ -1444,5 +1444,50 @@
                 "label": "Healthcare coverage"
             }
         }
+    },
+    "upp": {
+        "badge": "UPP Program",
+        "title": "UPP Entrepreneurship Program",
+        "subtitleLong": "The UPP Entrepreneurship Program supports entrepreneurs and innovative project leaders in transforming their ideas into reality through strategic guidance, tailored funding opportunities, and access to a strong network of experts.",
+        "why": "Why participate?",
+        "points": [
+            "Support the country's economic and social development",
+            "Transform your ideas into concrete and sustainable projects",
+            "Access funding and strategic business support"
+        ],
+        "cards": [
+            {
+                "title": "Innovation & Impact",
+                "desc": "We support innovative projects capable of generating sustainable economic and social impact."
+            },
+            {
+                "title": "Comprehensive Support",
+                "desc": "Benefit from strategic, technical, and financial guidance provided by experienced professionals."
+            },
+            {
+                "title": "Funding Opportunities",
+                "desc": "Access financing programs tailored to your entrepreneurial project."
+            }
+        ],
+        "processTitle": "Selection Process",
+        "process": [
+            "Project submission through the application form",
+            "Business plan review and evaluation",
+            "Presentation before the selection committee",
+            "Final selection and project support"
+        ],
+        "formTitle": "Registration Form",
+        "personal": "Personal Information",
+        "project": "Project Details",
+        "nom": "Last Name",
+        "prenom": "First Name",
+        "telephone": "Phone Number",
+        "email": "Email Address",
+        "ville": "City",
+        "projectTitle": "Project Title",
+        "projectDesc": "Project description (objective, feasibility, impact — max 300 words)",
+        "upload": "Drag or upload your business plan (PDF or Word)",
+        "conditions": "I certify that the information provided is accurate and I agree to participate in the program.",
+        "submit": "Submit Application"
     }
 }
