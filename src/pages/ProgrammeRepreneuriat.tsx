@@ -58,7 +58,7 @@ const ProgrammeUPP = () => {
 
                 {/* BACKGROUND IMAGE */}
                 <div
-                    className="absolute inset-0 opacity-[0.07]"
+                    className="absolute inset-0 "
                     style={{
                         backgroundImage: "url('/UPP.png')",
                         backgroundSize: "cover",
