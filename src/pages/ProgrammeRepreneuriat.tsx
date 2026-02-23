@@ -72,7 +72,7 @@ const ProgrammeUPP = () => {
                     <div className="absolute bottom-0 left-0 w-96 h-96 bg-secondary/20 blur-3xl rounded-full"></div>
                 </div>
 
-                <div className="px-[6.5%] py-20 mx-auto relative z-10 ">
+                <div className="px-[6.5%] py-20 mx-auto relative ">
 
                     <div className="text-center mb-20">
                         <div className="inline-flex items-center gap-2 bg-primary/10 border border-primary/20 rounded-full px-6 py-2 mb-6">
