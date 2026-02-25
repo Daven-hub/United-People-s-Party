@@ -75,7 +75,7 @@ const ProgrammeUPP = () => {
                     <div className="absolute bottom-0 left-0 w-56 sm:w-80 h-56 sm:h-80 bg-secondary/20 blur-3xl rounded-full" />
                 </div>
 
-                <div className="relative z-10 max-w-7xl mx-auto">
+                <div className="relative  max-w-7xl mx-auto">
 
                     {/* HERO */}
                     <div className="text-center mb-12 sm:mb-16 lg:mb-20">
